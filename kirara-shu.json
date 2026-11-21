@@ -1,0 +1,11388 @@
+{
+ "work": "雲母集",
+ "work_id": "kirara-shu",
+ "repo": "kumoi-no-fumigura/kirara-shu",
+ "yomi": "きららしゅう",
+ "category": "近代歌集",
+ "kind": "kashu",
+ "description": {
+  "kind": "近代歌集",
+  "era": "大正時代",
+  "author": "北原白秋",
+  "desc": "北原白秋の歌集（大正 4 年）。"
+ },
+ "editions": [
+  {
+   "pid": "aozora",
+   "title": "白秋全集　7",
+   "editor": "入力: 光森裕樹、校正: 岡村和彦",
+   "series": "青空文庫",
+   "publisher": "岩波書店",
+   "year": 1985,
+   "pages": "",
+   "url": "https://www.aozora.gr.jp/cards/000106/card56858.html"
+  }
+ ],
+ "status": "未校正",
+ "license": {
+  "text": "CC0 1.0"
+ },
+ "translation": null,
+ "blocks": [
+  {
+   "id": "kirara-shu-000001",
+   "pid": "aozora",
+   "pages": [],
+   "no": null,
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "きらら。　　雲母。うんも。玉のたぐひにて、五色のひかりあり。深山の石の間にいでくるものにて、紙をかさねたるごとくかさなりあひて、剥げば、よくはがれて、うすく、紙のやうになれども、火にいれてもやけず。水にいれてもぬるゝことなし。和名（雲母和名、岐良々）『日本大辞林』",
+   "sachu": "",
+   "poems": [],
+   "jo": true,
+   "lb": [
+    125
+   ],
+   "ruby": [
+    {
+     "a": "玉",
+     "r": "タマ"
+    },
+    {
+     "a": "五色",
+     "r": "ゴシキ"
+    },
+    {
+     "a": "深山",
+     "r": "オクヤマ"
+    },
+    {
+     "a": "石",
+     "r": "イシ"
+    },
+    {
+     "a": "間",
+     "r": "アヒダ"
+    },
+    {
+     "a": "紙",
+     "r": "カミ"
+    },
+    {
+     "a": "剥",
+     "r": "ハ"
+    },
+    {
+     "a": "紙",
+     "r": "カミ"
+    },
+    {
+     "a": "火",
+     "r": "ヒ"
+    },
+    {
+     "a": "水",
+     "r": "ミヅ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000002",
+   "pid": "aozora",
+   "pages": [],
+   "no": 1,
+   "maki": "力",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "煌々と光りて動く山ひとつ押し傾けて来る力はも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "煌々",
+     "r": "くわうくわう"
+    },
+    {
+     "a": "傾",
+     "r": "かたぶ"
+    },
+    {
+     "a": "来",
+     "r": "く"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000003",
+   "pid": "aozora",
+   "pages": [],
+   "no": 2,
+   "maki": "卵",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "煌々と光りて深き巣のなかは卵ばつかりつまりけるかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "煌々",
+     "r": "くわう／＼"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000004",
+   "pid": "aozora",
+   "pages": [],
+   "no": 3,
+   "maki": "卵",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "大きなる手があらはれて昼深し上から卵をつかみけるかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000005",
+   "pid": "aozora",
+   "pages": [],
+   "no": 4,
+   "maki": "卵",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "かなしきは春画の上にころがれる七面鳥の卵なりけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000006",
+   "pid": "aozora",
+   "pages": [],
+   "no": 5,
+   "maki": "大鴉",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "大鴉一羽渚に黙ふかしうしろにうごく漣の列",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "黙",
+     "r": "もだ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000007",
+   "pid": "aozora",
+   "pages": [],
+   "no": 6,
+   "maki": "大鴉",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "大鴉一羽地に下り昼深しそれを眺めてまた一羽来し",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000008",
+   "pid": "aozora",
+   "pages": [],
+   "no": 7,
+   "maki": "大鴉",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "昼渚人し見えねば大鴉はつたりと雌を圧へぬるかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "雌",
+     "r": "めす"
+    },
+    {
+     "a": "圧",
+     "r": "おさ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000009",
+   "pid": "aozora",
+   "pages": [],
+   "no": 8,
+   "maki": "大鴉",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "大鴉渚歩けど麗らなる波はそこまでとどかざりけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "渚",
+     "r": "なぎさ"
+    },
+    {
+     "a": "歩",
+     "r": "あり"
+    },
+    {
+     "a": "麗",
+     "r": "うら"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000010",
+   "pid": "aozora",
+   "pages": [],
+   "no": 9,
+   "maki": "大鴉",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "寂光の浜に群れゐる大鴉それの真上にまた一羽来し",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "寂光",
+     "r": "じやくくわう"
+    },
+    {
+     "a": "真上",
+     "r": "まうへ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000011",
+   "pid": "aozora",
+   "pages": [],
+   "no": 10,
+   "maki": "大鴉",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "一羽飛び二羽飛び三羽飛び四羽五羽飛び大鴉いちどに飛びにけるかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000012",
+   "pid": "aozora",
+   "pages": [],
+   "no": 11,
+   "maki": "大鴉",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "大空の下にしまし伏したり病鴉生きて飛び立つ最後に一羽",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "下",
+     "r": "もと"
+    },
+    {
+     "a": "病鴉",
+     "r": "やみがらす"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000013",
+   "pid": "aozora",
+   "pages": [],
+   "no": 12,
+   "maki": "犬",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "水の面に白きむく犬姿うつし口には燃ゆる紅の肉",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "面",
+     "r": "も"
+    },
+    {
+     "a": "紅",
+     "r": "くれなゐ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000014",
+   "pid": "aozora",
+   "pages": [],
+   "no": 13,
+   "maki": "犬",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "丸木橋の上と下とを真白きもの煌々として通りけるかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "丸木橋",
+     "r": "まるきばし"
+    },
+    {
+     "a": "煌々",
+     "r": "くわうくわう"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000015",
+   "pid": "aozora",
+   "pages": [],
+   "no": 14,
+   "maki": "魚介三品",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "水の面に光ひそまり昼深しぬつと海亀息吹きにたり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000016",
+   "pid": "aozora",
+   "pages": [],
+   "no": 15,
+   "maki": "魚介三品",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "日ざかりは巌を動かす海蛆もぱつたりと息をひそめけるかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "海蛆",
+     "r": "ふなむし"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000017",
+   "pid": "aozora",
+   "pages": [],
+   "no": 16,
+   "maki": "魚介三品",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "鱶は大地の上は歩かねばそこにごろりところがりにけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "鱶",
+     "r": "ふかざめ"
+    },
+    {
+     "a": "大地",
+     "r": "だいち"
+    },
+    {
+     "a": "歩",
+     "r": "ある"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000018",
+   "pid": "aozora",
+   "pages": [],
+   "no": 17,
+   "maki": "穴",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ふかぶかと眼ひらけばどん底に何か光りて渦巻くらしも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "眼",
+     "r": "まなこ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000019",
+   "pid": "aozora",
+   "pages": [],
+   "no": 18,
+   "maki": "薔薇",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "盤石に圧し伏せられし薔薇の花石をはねのけ照深みかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "盤石",
+     "r": "ばんじやく"
+    },
+    {
+     "a": "薔薇",
+     "r": "ばら"
+    },
+    {
+     "a": "照",
+     "r": "てり"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000020",
+   "pid": "aozora",
+   "pages": [],
+   "no": 19,
+   "maki": "雲",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "大空に何も無ければ入道雲むくりむくりと湧きにけるかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000021",
+   "pid": "aozora",
+   "pages": [],
+   "no": 20,
+   "maki": "前夜",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "雪深し黙みゐたれば紅の月いで方となりにけるかな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "黙",
+     "r": "くぐ"
+    },
+    {
+     "a": "紅",
+     "r": "くれなゐ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000022",
+   "pid": "aozora",
+   "pages": [],
+   "no": 21,
+   "maki": "河口",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "思ひきや霧の晴間のみをつくし光りゆらめく河下見れば",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "晴間",
+     "r": "はれま"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000023",
+   "pid": "aozora",
+   "pages": [],
+   "no": 22,
+   "maki": "河口",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "朝霧にかぎり知られぬみをつくしかぎりも知らぬ恋もするかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000024",
+   "pid": "aozora",
+   "pages": [],
+   "no": 23,
+   "maki": "河口",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "朝霧に光りゆらめくみをつくしいまだ死なむと吾が思はなくに",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000025",
+   "pid": "aozora",
+   "pages": [],
+   "no": 24,
+   "maki": "三崎真福寺",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "日だまりに光りゆらめく黄薔薇ゆすり動かしてゐる鳥のあり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "黄薔薇",
+     "r": "くわうしようび"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000026",
+   "pid": "aozora",
+   "pages": [],
+   "no": 25,
+   "maki": "三崎真福寺",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "黄薔薇光りゆらめくとも知らず雀飛び居りゆらめきつつも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "黄薔薇",
+     "r": "くわうしようび"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000027",
+   "pid": "aozora",
+   "pages": [],
+   "no": 26,
+   "maki": "二町谷",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "寂しさに浜へ出て見れば波ばかりうねりくねれりあきらめられず",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "出",
+     "r": "で"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000028",
+   "pid": "aozora",
+   "pages": [],
+   "no": 27,
+   "maki": "二町谷",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "寂しさに男三人浜に出で三人そろうてあきらめられず",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "出",
+     "r": "い"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000029",
+   "pid": "aozora",
+   "pages": [],
+   "no": 28,
+   "maki": "八景原",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "海人が子が潜り漕ぎたみみるめ刈るここの漣かぎり知られず",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "海人",
+     "r": "あま"
+    },
+    {
+     "a": "潜",
+     "r": "もぐ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000030",
+   "pid": "aozora",
+   "pages": [],
+   "no": 29,
+   "maki": "八景原",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "八景原の崖に揺れ揺るかづらの葉かづら日に照るあきらめられず",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000031",
+   "pid": "aozora",
+   "pages": [],
+   "no": 30,
+   "maki": "八景原",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "小牛ゐて薊食み居り八景原小牛かはゆしあきらめられず",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "食",
+     "r": "は"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000032",
+   "pid": "aozora",
+   "pages": [],
+   "no": 31,
+   "maki": "八景原",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "来て見ればけふもかがやくしろがねの沖辺はるかにゆく蒸汽のあり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "蒸汽",
+     "r": "ふね"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000033",
+   "pid": "aozora",
+   "pages": [],
+   "no": 32,
+   "maki": "八景原",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "日が照る海がかがやく鰯船板子たたけりあきらめられず",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "板子",
+     "r": "いたご"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000034",
+   "pid": "aozora",
+   "pages": [],
+   "no": 33,
+   "maki": "八景原",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "八景原春の光は極みなし涙ながして寝ころびて居る",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "八景原",
+     "r": "はつけばら"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000035",
+   "pid": "aozora",
+   "pages": [],
+   "no": 34,
+   "maki": "八景原",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あまつさへ日は麗らかに枯草のふかき匂ひもひもじきかなや",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000036",
+   "pid": "aozora",
+   "pages": [],
+   "no": 35,
+   "maki": "八景原",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "日の光ひたと声せずなりにけり何事か沖に事あるらしや",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000037",
+   "pid": "aozora",
+   "pages": [],
+   "no": 36,
+   "maki": "八景原",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ただひとつ紅き日の玉くるくると沖にかがやくあきらめられず",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "紅",
+     "r": "あか"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000038",
+   "pid": "aozora",
+   "pages": [],
+   "no": 37,
+   "maki": "八景原",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "空赤く海また赤し八景原なかのとんがり山なぜ黒いぞな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "八景原",
+     "r": "はつけばら"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000039",
+   "pid": "aozora",
+   "pages": [],
+   "no": 38,
+   "maki": "八景原",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "雲雀啼く浦の廓の田圃みち行けばさびしもまだ日は暮れず",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "廓",
+     "r": "くるわ"
+    },
+    {
+     "a": "田圃",
+     "r": "たんぼ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000040",
+   "pid": "aozora",
+   "pages": [],
+   "no": 39,
+   "maki": "華魁ヶ浜",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "何かしら笑ひ泣きする心なり野菜畑に鰯ころがる",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000041",
+   "pid": "aozora",
+   "pages": [],
+   "no": 40,
+   "maki": "華魁ヶ浜",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "来て見れば鰯ころがる蕪畑蕪みどりの葉をひるがへす",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "蕪畑",
+     "r": "かぶらばた"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000042",
+   "pid": "aozora",
+   "pages": [],
+   "no": 41,
+   "maki": "城ヶ島",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "日暮るれば枯草山の枯草をただかきわけていそぐなりけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000043",
+   "pid": "aozora",
+   "pages": [],
+   "no": 42,
+   "maki": "城ヶ島",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夕されば涙こぼるる城ヶ島人間ひとり居らざりにけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "城",
+     "r": "じやう"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000044",
+   "pid": "aozora",
+   "pages": [],
+   "no": 43,
+   "maki": "帰途",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "おめおめと生きながらへてくれなゐの山の椿に身を凭せにけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "凭",
+     "r": "よ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000045",
+   "pid": "aozora",
+   "pages": [],
+   "no": 44,
+   "maki": "大川端",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夕暮の余光のもとをうち案じ空馬車馭してゆく馭者のあり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000046",
+   "pid": "aozora",
+   "pages": [],
+   "no": 45,
+   "maki": "大川端",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "屋根の太陽は赤く澱みて石だたみ古るき歩道に暮れ落ちにけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "太陽",
+     "r": "ひ"
+    },
+    {
+     "a": "澱",
+     "r": "おど"
+    },
+    {
+     "a": "歩道",
+     "r": "ほだう"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000047",
+   "pid": "aozora",
+   "pages": [],
+   "no": 46,
+   "maki": "大川端",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夕されば大川端に立つ煙重く傾むく風吹かむとす",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000048",
+   "pid": "aozora",
+   "pages": [],
+   "no": 47,
+   "maki": "大川端",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "悲しくも思かたむけいつとなくながれのきしをたどるなりけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000049",
+   "pid": "aozora",
+   "pages": [],
+   "no": 48,
+   "maki": "大川端",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "風寒く夕日黄ばめり冬の水いま街裏を逆押してゆく",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "黄",
+     "r": "き"
+    },
+    {
+     "a": "街裏",
+     "r": "まちうら"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000050",
+   "pid": "aozora",
+   "pages": [],
+   "no": 49,
+   "maki": "枯草ぐるま",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夕さればひとりぽつちの杉の樹に日はえんえんと燃えてけるかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000051",
+   "pid": "aozora",
+   "pages": [],
+   "no": 50,
+   "maki": "枯草ぐるま",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あかあかと枯草ぐるまゆるやかに夕日の野辺を軋むなりけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "軋",
+     "r": "きし"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000052",
+   "pid": "aozora",
+   "pages": [],
+   "no": 51,
+   "maki": "枯草ぐるま",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "悲しともなくてなつかしかがやかに夕日にかへる枯草ぐるま",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000053",
+   "pid": "aozora",
+   "pages": [],
+   "no": 52,
+   "maki": "枯草ぐるま",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "道のべの道陸神よあかあかと日照り隈なし道陸神よ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "道陸神",
+     "r": "だうろくじん"
+    },
+    {
+     "a": "隈",
+     "r": "くま"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000054",
+   "pid": "aozora",
+   "pages": [],
+   "no": 53,
+   "maki": "枯草ぐるま",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "日は暮れぬ人間ものの誰知らぬふかき恐怖に牛吼えてゆく",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "恐怖",
+     "r": "おそれ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000055",
+   "pid": "aozora",
+   "pages": [],
+   "no": 54,
+   "maki": "三崎新居",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "大正二年四月下浣、家をあげて三崎向ヶ崎に移る。",
+   "author": "",
+   "text": "恍惚とよろめきわたるわだつうみの鱗の宮のほとりにぞ居る",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "恍惚",
+     "r": "くわうこつ"
+    },
+    {
+     "a": "鱗",
+     "r": "いろこ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000056",
+   "pid": "aozora",
+   "pages": [],
+   "no": 55,
+   "maki": "新生",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "水あさぎ空ひろびろし吾が父よここは牢獄にあらざりにけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "牢獄",
+     "r": "ひとや"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000057",
+   "pid": "aozora",
+   "pages": [],
+   "no": 56,
+   "maki": "新生",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "深みどり海はろばろし吾が母よここは牢獄にあらざりにけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "牢獄",
+     "r": "ひとや"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000058",
+   "pid": "aozora",
+   "pages": [],
+   "no": 57,
+   "maki": "不尽抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "不尽の山れいろうとしてひさかたの天の一方におはしけるかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "不尽",
+     "r": "ふじ"
+    },
+    {
+     "a": "天",
+     "r": "てん"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000059",
+   "pid": "aozora",
+   "pages": [],
+   "no": 58,
+   "maki": "不尽抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ほがらかに天に辷りあがる不尽の山われを忘れてわがふり仰ぐ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "天",
+     "r": "てん"
+    },
+    {
+     "a": "辷",
+     "r": "すべ"
+    },
+    {
+     "a": "不尽",
+     "r": "ふじ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000060",
+   "pid": "aozora",
+   "pages": [],
+   "no": 59,
+   "maki": "不尽抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "わがこころ麗らかなれば不尽の山けふ朗らかに見ゆるものかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "麗",
+     "r": "うら"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000061",
+   "pid": "aozora",
+   "pages": [],
+   "no": 60,
+   "maki": "不尽抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "不尽の山麗らかなればわがこころ朗らかになりて眺め惚れて居る",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "不尽",
+     "r": "ふじ"
+    },
+    {
+     "a": "麗",
+     "r": "うら"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000062",
+   "pid": "aozora",
+   "pages": [],
+   "no": 61,
+   "maki": "同じく",
+   "bu": "",
+   "dai": "ある時",
+   "kotobagaki": "",
+   "author": "",
+   "text": "父母と海にうち出でめづらかに浮世がたりを吾がするものか",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "父母",
+     "r": "かぞいろ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000063",
+   "pid": "aozora",
+   "pages": [],
+   "no": 62,
+   "maki": "同じく",
+   "bu": "",
+   "dai": "ある時",
+   "kotobagaki": "",
+   "author": "",
+   "text": "不尽見ると父母のせてかつをぶね大きなる櫓をわが押しにけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "不尽",
+     "r": "ふじ"
+    },
+    {
+     "a": "父母",
+     "r": "かぞいろ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000064",
+   "pid": "aozora",
+   "pages": [],
+   "no": 63,
+   "maki": "同じく",
+   "bu": "",
+   "dai": "ある時",
+   "kotobagaki": "",
+   "author": "",
+   "text": "垂乳根のせちに見むといふ不尽の山いま大空にあらはれにけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "垂乳根",
+     "r": "たらちね"
+    },
+    {
+     "a": "不尽",
+     "r": "ふじ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000065",
+   "pid": "aozora",
+   "pages": [],
+   "no": 64,
+   "maki": "同じく",
+   "bu": "",
+   "dai": "ある時",
+   "kotobagaki": "",
+   "author": "",
+   "text": "大方にうれしきものを不尽の山わが家のそらに見えにけるかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "大方",
+     "r": "おほかた"
+    },
+    {
+     "a": "家",
+     "r": "や"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000066",
+   "pid": "aozora",
+   "pages": [],
+   "no": 65,
+   "maki": "同じく",
+   "bu": "",
+   "dai": "ある時",
+   "kotobagaki": "",
+   "author": "",
+   "text": "大きなる櫓櫂かついで不尽の山眺め見わたす男なりけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000067",
+   "pid": "aozora",
+   "pages": [],
+   "no": 66,
+   "maki": "五月",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "魚かつぎ丘にのぼれば馬鈴薯の紫の花いま盛りなり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "魚",
+     "r": "さかな"
+    },
+    {
+     "a": "馬鈴薯",
+     "r": "じやがいも"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000068",
+   "pid": "aozora",
+   "pages": [],
+   "no": 67,
+   "maki": "五月",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "れいろうと不尽の高嶺のあらはれて馬鈴薯畑の紫の花",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "不尽",
+     "r": "ふじ"
+    },
+    {
+     "a": "高嶺",
+     "r": "たかね"
+    },
+    {
+     "a": "馬鈴薯畑",
+     "r": "じやがいもはた"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000069",
+   "pid": "aozora",
+   "pages": [],
+   "no": 68,
+   "maki": "ある時は",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時は眼ひきあけ驚くと鮮やかなる薔薇の花買ひにけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "眼",
+     "r": "まなこ"
+    },
+    {
+     "a": "鮮",
+     "r": "あざ"
+    },
+    {
+     "a": "薔薇",
+     "r": "ばら"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000070",
+   "pid": "aozora",
+   "pages": [],
+   "no": 69,
+   "maki": "ある時は",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時は命さびしみ新らしき蠣の酢蠣を作らせにけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "蠣",
+     "r": "かき"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000071",
+   "pid": "aozora",
+   "pages": [],
+   "no": 70,
+   "maki": "ある時は",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時は大地の匂ぷんぷんとにほふキヤベツの玉もぎて居り",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "大地",
+     "r": "だいち"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000072",
+   "pid": "aozora",
+   "pages": [],
+   "no": 71,
+   "maki": "ある時は",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時は独行くとてはつたりと朱の断面に行き遇ひにたり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "独",
+     "r": "ひとり"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000073",
+   "pid": "aozora",
+   "pages": [],
+   "no": 72,
+   "maki": "ある時は",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時は巣藁代へむとせしかどもその巣に卵のうまれてありけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000074",
+   "pid": "aozora",
+   "pages": [],
+   "no": 73,
+   "maki": "ある時は",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時は赤々と日のそそぎやまぬ首縊りの家を見恍れてゐたり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "首縊",
+     "r": "くびくく"
+    },
+    {
+     "a": "恍",
+     "r": "ほ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000075",
+   "pid": "aozora",
+   "pages": [],
+   "no": 74,
+   "maki": "ある時は",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時は何も思はず路のべの赤馬の尻毛に手を触れてゐつ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "赤馬",
+     "r": "あか"
+    },
+    {
+     "a": "手",
+     "r": "て"
+    },
+    {
+     "a": "触",
+     "r": "ふ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000076",
+   "pid": "aozora",
+   "pages": [],
+   "no": 75,
+   "maki": "ある時は",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時は遠眼鏡もて虔ましくあそぶ千鳥を凝視めてあるも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "虔",
+     "r": "つつ"
+    },
+    {
+     "a": "凝視",
+     "r": "みつ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000077",
+   "pid": "aozora",
+   "pages": [],
+   "no": 76,
+   "maki": "ある時は",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時は小さき花瓶の側面にしみじみと日の飛び去るを見つ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "花瓶",
+     "r": "くわびん"
+    },
+    {
+     "a": "側面",
+     "r": "かたづら"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000078",
+   "pid": "aozora",
+   "pages": [],
+   "no": 77,
+   "maki": "ある時は",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時はおのが家内を盗人のごとく足音をぬすみてあるも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "家内",
+     "r": "やうち"
+    },
+    {
+     "a": "盗人",
+     "r": "ぬすびと"
+    },
+    {
+     "a": "足音",
+     "r": "あのと"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000079",
+   "pid": "aozora",
+   "pages": [],
+   "no": 78,
+   "maki": "ある時は",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時は誰知るまいと思ひのほか人が山から此方向いてゐる",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "此方",
+     "r": "こちら"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000080",
+   "pid": "aozora",
+   "pages": [],
+   "no": 79,
+   "maki": "ある時は",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ある時はただ専念に一匹の大鯛釣ると坐りたりけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "専念",
+     "r": "ひとむき"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000081",
+   "pid": "aozora",
+   "pages": [],
+   "no": 80,
+   "maki": "生きの身",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "生きの身の吾が身いとしみ牛の乳まだきに起きてまづ吸ひにけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "乳",
+     "r": "ちち"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000082",
+   "pid": "aozora",
+   "pages": [],
+   "no": 81,
+   "maki": "生きの身",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "生きの身の吾が身いとしも鯛釣るとけふも岬の尖端に出で",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "尖端",
+     "r": "とつぱな"
+    },
+    {
+     "a": "出",
+     "r": "い"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000083",
+   "pid": "aozora",
+   "pages": [],
+   "no": 82,
+   "maki": "生きの身",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "生きの身の吾が身いとしくもぎたての青豌豆の飯たかせけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "飯",
+     "r": "いひ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000084",
+   "pid": "aozora",
+   "pages": [],
+   "no": 83,
+   "maki": "生きの身",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "麪麺を買ひ紅薔薇の花もらひたり爽やかなるかも両手に持てば",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "麪麺",
+     "r": "パン"
+    },
+    {
+     "a": "紅薔薇",
+     "r": "べにばら"
+    },
+    {
+     "a": "両手",
+     "r": "りやうて"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000085",
+   "pid": "aozora",
+   "pages": [],
+   "no": 84,
+   "maki": "生きの身",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "生きの身の吾が身いとしみしくしくと腐れ鮑を日に干しにけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "鮑",
+     "r": "あはび"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000086",
+   "pid": "aozora",
+   "pages": [],
+   "no": 85,
+   "maki": "水垂",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "水垂の岩の峡を垂る水の蕭々として真昼なりけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "水垂",
+     "r": "みづたれ"
+    },
+    {
+     "a": "峡",
+     "r": "はざま"
+    },
+    {
+     "a": "蕭々",
+     "r": "せう／＼"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000087",
+   "pid": "aozora",
+   "pages": [],
+   "no": 86,
+   "maki": "水垂",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "水垂の松のかげゆくあはれなり麗らなる日のべら釣り小舟",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "小舟",
+     "r": "をぶね"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000088",
+   "pid": "aozora",
+   "pages": [],
+   "no": 87,
+   "maki": "水垂",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "城ヶ島の白百合の花大きければ仰ぎてぞあらむあそびの舟は",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000089",
+   "pid": "aozora",
+   "pages": [],
+   "no": 88,
+   "maki": "崖の上の歓語",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "大きなる匍ひ下り松の枝の上漣かがやき鳥ひとつゐる",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000090",
+   "pid": "aozora",
+   "pages": [],
+   "no": 89,
+   "maki": "崖の上の歓語",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "海雀つらつらあたまそろへたり光り消えたり漣見れば",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000091",
+   "pid": "aozora",
+   "pages": [],
+   "no": 90,
+   "maki": "崖の上の歓語",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "この憎き男たらしがつつじの花ゆすり動かしていつまで泣くぞ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000092",
+   "pid": "aozora",
+   "pages": [],
+   "no": 91,
+   "maki": "崖の上の歓語",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "深潭の崖の上なる紅躑躅二人ばつかり照らしけるかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "深潭",
+     "r": "しんたん"
+    },
+    {
+     "a": "紅躑躅",
+     "r": "あかつつじ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000093",
+   "pid": "aozora",
+   "pages": [],
+   "no": 92,
+   "maki": "崖の上の歓語",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "恐ろしき淵のまはりを海雀光り列なめ飛び居りあはれ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "列",
+     "r": "つら"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000094",
+   "pid": "aozora",
+   "pages": [],
+   "no": 93,
+   "maki": "崖の上の歓語",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "かき抱けば本望安堵の笑ひごゑ立てて目つぶるわが妻なれば",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000095",
+   "pid": "aozora",
+   "pages": [],
+   "no": 94,
+   "maki": "崖の上の歓語",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "帰命頂礼この時遥か海雀光りめぐると誰か知らめや",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000096",
+   "pid": "aozora",
+   "pages": [],
+   "no": 95,
+   "maki": "崖の上の歓語",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "帰命頂礼消えてまた照る海雀人は目をとぢ幽かにひらき",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000097",
+   "pid": "aozora",
+   "pages": [],
+   "no": 96,
+   "maki": "崖の上の歓語",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "帰命頂礼誰し知らねば海雀耀きの輪をつくりまた消つ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "消",
+     "r": "け"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000098",
+   "pid": "aozora",
+   "pages": [],
+   "no": 97,
+   "maki": "深淵",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "しんしんと淵に童が声すなれ瞰下せば何もなかりけるかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "童",
+     "r": "わらべ"
+    },
+    {
+     "a": "瞰下",
+     "r": "みおろ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000099",
+   "pid": "aozora",
+   "pages": [],
+   "no": 98,
+   "maki": "深淵",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "深潭にちららちららと白雪のけはひつめたく沈む人かも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "深潭",
+     "r": "しんたん"
+    },
+    {
+     "a": "白雪",
+     "r": "しらゆき"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000100",
+   "pid": "aozora",
+   "pages": [],
+   "no": 99,
+   "maki": "深淵",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "いつまでも淵に潜りの影見えずあまり深くも潜りけむかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "潜",
+     "r": "もぐ"
+    },
+    {
+     "a": "潜",
+     "r": "もぐ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000101",
+   "pid": "aozora",
+   "pages": [],
+   "no": 100,
+   "maki": "深淵",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "潜りの子真逆さまに頭より躍り入りたり親の子なれば",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "潜",
+     "r": "もぐ"
+    },
+    {
+     "a": "真逆",
+     "r": "まつさか"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000102",
+   "pid": "aozora",
+   "pages": [],
+   "no": 101,
+   "maki": "深淵",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "この淵にひそみて久し潜りの子親の子なれば玉藻刈るらむ玉藻刈るらむ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000103",
+   "pid": "aozora",
+   "pages": [],
+   "no": 102,
+   "maki": "蓴菜",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "恋しけどおゆき思はず蓴菜の銀の水泥を掌に掬ひ居つ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "蓴菜",
+     "r": "じゆんさい"
+    },
+    {
+     "a": "水泥",
+     "r": "みどろ"
+    },
+    {
+     "a": "掌",
+     "r": "て"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000104",
+   "pid": "aozora",
+   "pages": [],
+   "no": 103,
+   "maki": "蓴菜",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "人なればわれもまことに憔悴す蓴菜光れこの沼深く",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000105",
+   "pid": "aozora",
+   "pages": [],
+   "no": 104,
+   "maki": "蓴菜",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "蓴菜を掬へば水泥掌にあまりて照り落つるなりまた沼ふかく",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "水泥",
+     "r": "みどろ"
+    },
+    {
+     "a": "掌",
+     "r": "て"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000106",
+   "pid": "aozora",
+   "pages": [],
+   "no": 105,
+   "maki": "蓴菜",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "明るさや寥しさや人も来ず裸になれど泣くすべ知らずも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000107",
+   "pid": "aozora",
+   "pages": [],
+   "no": 106,
+   "maki": "蓴菜",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "寂しけどおのれ耀き頸かぶす膝までも深く泥に踏み入り",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "頸",
+     "r": "うな"
+    },
+    {
+     "a": "泥",
+     "r": "どろ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000108",
+   "pid": "aozora",
+   "pages": [],
+   "no": 107,
+   "maki": "蓴菜",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "驚きてつくづく見れば鰻なり一面に光る沼のまんなか",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000109",
+   "pid": "aozora",
+   "pages": [],
+   "no": 108,
+   "maki": "蓴菜",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "この沼ゆなにか湧きあがる恐ろしき光ある見て逃げ上るわれは",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000110",
+   "pid": "aozora",
+   "pages": [],
+   "no": 109,
+   "maki": "蓴菜",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "照りかへる薄苅萱さみどりのひろびろし野にほつと出でつも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "薄",
+     "r": "すすき"
+    },
+    {
+     "a": "苅萱",
+     "r": "かるかや"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000111",
+   "pid": "aozora",
+   "pages": [],
+   "no": 110,
+   "maki": "眼鏡橋",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "眼鏡橋くぐりゆく水のをりをりに深く耀きやがて消えつも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "眼鏡橋",
+     "r": "めがねばし"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000112",
+   "pid": "aozora",
+   "pages": [],
+   "no": 111,
+   "maki": "眼鏡橋",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "流れかね耀きの輪を水つくるそこに野菜を洗へり真青に",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "耀",
+     "r": "かがや"
+    },
+    {
+     "a": "真青",
+     "r": "まさを"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000113",
+   "pid": "aozora",
+   "pages": [],
+   "no": 112,
+   "maki": "眼鏡橋",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "日ざかりは短艇動かず水ゆかず潟はつぶつぶ空は燦々",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "短艇",
+     "r": "ボート"
+    },
+    {
+     "a": "潟",
+     "r": "かた"
+    },
+    {
+     "a": "燦々",
+     "r": "きらきら"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000114",
+   "pid": "aozora",
+   "pages": [],
+   "no": 113,
+   "maki": "眼鏡橋",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "寂しけど何も思はずこの潟の銀泥の中に櫂を突き入れ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "潟",
+     "r": "かた"
+    },
+    {
+     "a": "銀泥",
+     "r": "ぎんどろ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000115",
+   "pid": "aozora",
+   "pages": [],
+   "no": 114,
+   "maki": "眼鏡橋",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "わが短艇力いつぱい動かすと櫂を突き入れ突きかがまるも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "短艇",
+     "r": "ボート"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000116",
+   "pid": "aozora",
+   "pages": [],
+   "no": 115,
+   "maki": "眼鏡橋",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "眼鏡橋を中にわたして茶屋三戸ここの廓は日の照るばかり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "眼鏡橋",
+     "r": "めがねばし"
+    },
+    {
+     "a": "廓",
+     "r": "くるわ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000117",
+   "pid": "aozora",
+   "pages": [],
+   "no": 116,
+   "maki": "眼鏡橋",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "日の光いつぱいに照る眼鏡橋誰か越えむとする眼鏡橋",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000118",
+   "pid": "aozora",
+   "pages": [],
+   "no": 117,
+   "maki": "眼鏡橋",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "眼鏡橋に西瓜断ち割る西瓜売今ぞ廓は昼寝のさかり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "廓",
+     "r": "くるわ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000119",
+   "pid": "aozora",
+   "pages": [],
+   "no": 118,
+   "maki": "眼鏡橋",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "真昼間子どもつまづきしばらくは何の声だにせざりけるかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "真昼間",
+     "r": "まつぴるま"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000120",
+   "pid": "aozora",
+   "pages": [],
+   "no": 119,
+   "maki": "眼鏡橋",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "眼鏡橋の眼鏡の中から眺むれば柳一本風にゆらるる風にゆらるる",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "一本",
+     "r": "いつぽん"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000121",
+   "pid": "aozora",
+   "pages": [],
+   "no": 120,
+   "maki": "白日逍遥",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "寂しけど麦稈帽子ゆ照りこぼるる夏の光を凝視めて行くも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "凝視",
+     "r": "みつ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000122",
+   "pid": "aozora",
+   "pages": [],
+   "no": 121,
+   "maki": "白日逍遥",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "寂しけど煌々と照るのぼり坂ただ真直にのぼりけるかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "真直",
+     "r": "まつすぐ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000123",
+   "pid": "aozora",
+   "pages": [],
+   "no": 122,
+   "maki": "白日逍遥",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "幅びろの光なだるるなだら坂動くばかりに見えにけるかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000124",
+   "pid": "aozora",
+   "pages": [],
+   "no": 123,
+   "maki": "白日逍遥",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "崖の上に照りてゆらめくものひとつ大いなる百合と見て通りたり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000125",
+   "pid": "aozora",
+   "pages": [],
+   "no": 124,
+   "maki": "白日逍遥",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "寂しさに油壺から小網代へ歩みかへせど昼ふかみかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "小網代",
+     "r": "こあじろ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000126",
+   "pid": "aozora",
+   "pages": [],
+   "no": 125,
+   "maki": "白日逍遥",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "寂しさに山の真昼の赤鳥居深くくぐりてまた出て来るも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "出",
+     "r": "で"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000127",
+   "pid": "aozora",
+   "pages": [],
+   "no": 126,
+   "maki": "白日逍遥",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "屁の神の赤き祠の真つ昼間大肌になりて汗ふきにけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "屁",
+     "r": "へ"
+    },
+    {
+     "a": "祠",
+     "r": "ほこら"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000128",
+   "pid": "aozora",
+   "pages": [],
+   "no": 127,
+   "maki": "城ヶ島",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "草ふかき切りそぎ崖に大きなる男寝て居る寂しきものか",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000129",
+   "pid": "aozora",
+   "pages": [],
+   "no": 128,
+   "maki": "城ヶ島",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "鵜の鳥と共に飛ばむとしたりしか鵜の鳥飛ばんとして飛びてゆく",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000130",
+   "pid": "aozora",
+   "pages": [],
+   "no": 129,
+   "maki": "城ヶ島",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "飛びかける鳥につかまれ燦めく魚生きたる心地もなかるらむあはれ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "燦",
+     "r": "きら"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000131",
+   "pid": "aozora",
+   "pages": [],
+   "no": 130,
+   "maki": "城ヶ島",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "飛びかける鳥魚をつかみあはれあはれ輝きの空に墜ちなむとする",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "墜",
+     "r": "お"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000132",
+   "pid": "aozora",
+   "pages": [],
+   "no": 131,
+   "maki": "城ヶ島",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "しみじみと海のはたてに見し煙いつのまにやら大船となる大船となる",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000133",
+   "pid": "aozora",
+   "pages": [],
+   "no": 132,
+   "maki": "城ヶ島",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "いつまでも向う向きたる人の頭いよよ光ればいよよ憎しも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000134",
+   "pid": "aozora",
+   "pages": [],
+   "no": 133,
+   "maki": "城ヶ島",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "城ヶ島の女子うららに裸となり見れば陰出しよく寝たるかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "女子",
+     "r": "をなご"
+    },
+    {
+     "a": "陰",
+     "r": "ほと"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000135",
+   "pid": "aozora",
+   "pages": [],
+   "no": 134,
+   "maki": "城ヶ島",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "城ヶ島の女子うららに裸となり鮑取らいで何思ふらむか",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "思",
+     "r": "も"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000136",
+   "pid": "aozora",
+   "pages": [],
+   "no": 135,
+   "maki": "城ヶ島",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "うつらうつら海を眺めてありそうみの女子裸となれりけるかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000137",
+   "pid": "aozora",
+   "pages": [],
+   "no": 136,
+   "maki": "海外の浜",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "蛸壺に蛸ひとつづつひそまりてころがる畑の太葱の花",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "太葱",
+     "r": "ふとねぎ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000138",
+   "pid": "aozora",
+   "pages": [],
+   "no": 137,
+   "maki": "海外の浜",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "深々と人間笑ふ声すなり谷一面の白百合の花",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000139",
+   "pid": "aozora",
+   "pages": [],
+   "no": 138,
+   "maki": "海外の浜",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "真白なるところてんぐさ干す男煌々と照り一人なりけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "煌々",
+     "r": "くわう／＼"
+    },
+    {
+     "a": "一人",
+     "r": "ひとり"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000140",
+   "pid": "aozora",
+   "pages": [],
+   "no": 139,
+   "maki": "菖蒲園",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "なにしかも一人ひそかに白菖蒲咲けるみぎはに来りしものか",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "一人",
+     "r": "ひとり"
+    },
+    {
+     "a": "白菖蒲",
+     "r": "しろあやめ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000141",
+   "pid": "aozora",
+   "pages": [],
+   "no": 140,
+   "maki": "菖蒲園",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ひとり来て涙落ちけりかきつばたみながら萎み夏ふかみかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000142",
+   "pid": "aozora",
+   "pages": [],
+   "no": 141,
+   "maki": "菖蒲園",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "明るけどあまり真白きかきつばたひと束にすれば何か暗かり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "真白",
+     "r": "ましろ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000143",
+   "pid": "aozora",
+   "pages": [],
+   "no": 142,
+   "maki": "菖蒲園",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "真白にぞ輝りてさびしきかきつばた白き犬つれ見にと吾が来し",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "来",
+     "r": "こ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000144",
+   "pid": "aozora",
+   "pages": [],
+   "no": 143,
+   "maki": "菖蒲園",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あはれなる廓の裏のかきつばた夕さり覗く目もあるらむか",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "廓",
+     "r": "くるわ"
+    },
+    {
+     "a": "夕",
+     "r": "ゆふ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000145",
+   "pid": "aozora",
+   "pages": [],
+   "no": 144,
+   "maki": "遊ヶ崎遊泳",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "さんさんと海に抜手を切る男しまし目に見え昼はふかしも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "抜手",
+     "r": "ぬきて"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000146",
+   "pid": "aozora",
+   "pages": [],
+   "no": 145,
+   "maki": "遊ヶ崎遊泳",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ちちのみの父を裸になしまゐらせ泳ぎにとゆくその子が二人",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "二人",
+     "r": "ふたり"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000147",
+   "pid": "aozora",
+   "pages": [],
+   "no": 146,
+   "maki": "遊ヶ崎遊泳",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "寂しければ両手張り切り相模灘を抜手切りゆく飛びゆくばかり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "両手",
+     "r": "もろて"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000148",
+   "pid": "aozora",
+   "pages": [],
+   "no": 147,
+   "maki": "遊ヶ崎遊泳",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "躍り入り抜手切れどもここの海の渦巻く潮の力深しも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "躍",
+     "r": "をど"
+    },
+    {
+     "a": "潮",
+     "r": "うしほ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000149",
+   "pid": "aozora",
+   "pages": [],
+   "no": 148,
+   "maki": "遊ヶ崎遊泳",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "抜手を切り一列にゆく泳手の帽子ましろに秋風の吹く",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "一列",
+     "r": "いちれつ"
+    },
+    {
+     "a": "泳手",
+     "r": "およぎて"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000150",
+   "pid": "aozora",
+   "pages": [],
+   "no": 149,
+   "maki": "狐のかみそり",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "しんしんと寂しき心起りたり山にゆかめとわれ山に来ぬ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000151",
+   "pid": "aozora",
+   "pages": [],
+   "no": 150,
+   "maki": "狐のかみそり",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "この心断崖の上にいと赤き狐のかみそり見れど癒えぬかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "断崖",
+     "r": "きりぎし"
+    },
+    {
+     "a": "癒",
+     "r": "い"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000152",
+   "pid": "aozora",
+   "pages": [],
+   "no": 151,
+   "maki": "狐のかみそり",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "狐のかみそり血の出づるやうな思して踏みてゆかねば入日が赤し",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000153",
+   "pid": "aozora",
+   "pages": [],
+   "no": 152,
+   "maki": "狐のかみそり",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "狐のかみそりかたまりて赤し然れどもひとつびとつに風吹けりけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000154",
+   "pid": "aozora",
+   "pages": [],
+   "no": 153,
+   "maki": "狐のかみそり",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "狐のかみそりしんしんと赤し然れどもかたまりて咲けば憤ほろしも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "憤",
+     "r": "いきど"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000155",
+   "pid": "aozora",
+   "pages": [],
+   "no": 154,
+   "maki": "狐のかみそり",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "毒ある赤き狐のかみそりは悲しき馬に食ましてかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000156",
+   "pid": "aozora",
+   "pages": [],
+   "no": null,
+   "maki": "狐のかみそり",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "註、馬この花を食らへば死す",
+   "sachu": "",
+   "poems": [],
+   "jo": true
+  },
+  {
+   "id": "kirara-shu-000157",
+   "pid": "aozora",
+   "pages": [],
+   "no": 155,
+   "maki": "狐のかみそり",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ただひとり鴉殺すとはばからず紅く踏みしく狐のかみそり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000158",
+   "pid": "aozora",
+   "pages": [],
+   "no": 156,
+   "maki": "狐のかみそり",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "淫らにして恒心なきもの実に寂しそこにもここにも狐のかみそり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "実",
+     "r": "じつ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000159",
+   "pid": "aozora",
+   "pages": [],
+   "no": 157,
+   "maki": "狐のかみそり",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "原つぱに狐のかみそりただ赤しわつとばかりに逃げ出すわれは",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000160",
+   "pid": "aozora",
+   "pages": [],
+   "no": 158,
+   "maki": "海光",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "海にゆかばこの寂しさも忘られむ海にゆかめとうちいでて来ぬ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000161",
+   "pid": "aozora",
+   "pages": [],
+   "no": 159,
+   "maki": "海光",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "漕ぎいでてあはれはるばる来しものか沖に立つ波かぎり知られず",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "来",
+     "r": "こ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000162",
+   "pid": "aozora",
+   "pages": [],
+   "no": 160,
+   "maki": "海光",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "われと櫓をわれと礼拝む心なりひとすぢに水脈を光らしてゆけば",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "礼拝",
+     "r": "おろが"
+    },
+    {
+     "a": "水脈",
+     "r": "みを"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000163",
+   "pid": "aozora",
+   "pages": [],
+   "no": 161,
+   "maki": "海光",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "金色の飛沫つめたく天をうつ大海の波は悲しかりけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "金色",
+     "r": "こんじき"
+    },
+    {
+     "a": "飛沫",
+     "r": "しぶき"
+    },
+    {
+     "a": "天",
+     "r": "そら"
+    },
+    {
+     "a": "大海",
+     "r": "だいかい"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000164",
+   "pid": "aozora",
+   "pages": [],
+   "no": 162,
+   "maki": "海光",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "一心に舟を漕ぐ男遥に見ゆ金色の日がくるくると射し",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "遥",
+     "r": "はる"
+    },
+    {
+     "a": "射",
+     "r": "さ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000165",
+   "pid": "aozora",
+   "pages": [],
+   "no": 163,
+   "maki": "海光",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "尿すれば金の光のひとすぢがさんさんと落ちて弾きかへすも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "尿",
+     "r": "いばり"
+    },
+    {
+     "a": "弾",
+     "r": "はぢ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000166",
+   "pid": "aozora",
+   "pages": [],
+   "no": 164,
+   "maki": "海光",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "北斎の天をうつ波なだれ落ちたちまち不二は消えてけるかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "天",
+     "r": "てん"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000167",
+   "pid": "aozora",
+   "pages": [],
+   "no": 165,
+   "maki": "海光",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "飛の魚強くはばたき一列飛びて翔れりくるしきか海が",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "一列",
+     "r": "ひとつらね"
+    },
+    {
+     "a": "翔",
+     "r": "かけ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000168",
+   "pid": "aozora",
+   "pages": [],
+   "no": 166,
+   "maki": "海光",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "飛の魚連て一列挿櫛の月形なせば君の恋しき",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "連",
+     "r": "つれ"
+    },
+    {
+     "a": "一列",
+     "r": "ひとつら"
+    },
+    {
+     "a": "挿櫛",
+     "r": "さしぐし"
+    },
+    {
+     "a": "月形",
+     "r": "つきがた"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000169",
+   "pid": "aozora",
+   "pages": [],
+   "no": 167,
+   "maki": "海光",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "躍り入りひとり泳げばしみじみと寂しき魚の臍突きに来ぬ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000170",
+   "pid": "aozora",
+   "pages": [],
+   "no": 168,
+   "maki": "海光",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "泳げば底より足をひくものあり人間の足をひくものあり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000171",
+   "pid": "aozora",
+   "pages": [],
+   "no": 169,
+   "maki": "海光",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "大きなる人あらはれて目の前に不意に舟漕ぐうれしさうれしさ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000172",
+   "pid": "aozora",
+   "pages": [],
+   "no": 170,
+   "maki": "海光",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "炎々と入日目の前の大きなる静かなる帆に燃えつきにけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000173",
+   "pid": "aozora",
+   "pages": [],
+   "no": 171,
+   "maki": "海光",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "はてしなくおほらにうねる海の波暮れてひもじき夜となりにけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000174",
+   "pid": "aozora",
+   "pages": [],
+   "no": 172,
+   "maki": "海光",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "舟とめてひそかに黙す闇の中深海底の響きこゆる",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "黙",
+     "r": "もだ"
+    },
+    {
+     "a": "中",
+     "r": "うち"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000175",
+   "pid": "aozora",
+   "pages": [],
+   "no": 173,
+   "maki": "海光",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "はてしなき海の真中に舟をうけ泣くに泣かれずわれは烏賊釣る",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "烏賊",
+     "r": "いか"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000176",
+   "pid": "aozora",
+   "pages": [],
+   "no": 174,
+   "maki": "海光",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "我は烏賊釣る鼠子のごと軽卒しく悲しき烏賊を夜もすがら釣る",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "鼠子",
+     "r": "ねずみこ"
+    },
+    {
+     "a": "軽卒",
+     "r": "そそか"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000177",
+   "pid": "aozora",
+   "pages": [],
+   "no": 175,
+   "maki": "海光",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "烏賊釣ると海の真底のいと暗きものの動きを凝視め我居り",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "烏賊",
+     "r": "いか"
+    },
+    {
+     "a": "真底",
+     "r": "まそこ"
+    },
+    {
+     "a": "凝視",
+     "r": "みつ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000178",
+   "pid": "aozora",
+   "pages": [],
+   "no": 176,
+   "maki": "海光",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あなあはれ人間闇の海にゐて漁火を焚くその火赤しも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "漁火",
+     "r": "いざりび"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000179",
+   "pid": "aozora",
+   "pages": [],
+   "no": 177,
+   "maki": "赤硝子",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "赤硝子戸ぴつたりと閉め音もなしそこに生物われひそみ居つ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "閉",
+     "r": "し"
+    },
+    {
+     "a": "生物",
+     "r": "いきもの"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000180",
+   "pid": "aozora",
+   "pages": [],
+   "no": 178,
+   "maki": "赤硝子",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "赤硝子戸ぴつたりと閉めなにものも入るなかれとひそみて居るも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "閉",
+     "r": "し"
+    },
+    {
+     "a": "入",
+     "r": "はい"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000181",
+   "pid": "aozora",
+   "pages": [],
+   "no": 179,
+   "maki": "赤硝子",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "日の光いつぱいに射しわが手足赤硝子よりさらに赤しも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "射",
+     "r": "さ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000182",
+   "pid": "aozora",
+   "pages": [],
+   "no": 180,
+   "maki": "赤硝子",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "赤硝子窻腐れ鮑を日に干すとしよんぼり母の外に立たす見ゆ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "鮑",
+     "r": "あはび"
+    },
+    {
+     "a": "外",
+     "r": "と"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000183",
+   "pid": "aozora",
+   "pages": [],
+   "no": 181,
+   "maki": "赤硝子",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "赤硝子戸、赤き卵の累々とつまりたる函縁側に見ゆ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "累々",
+     "r": "るい／＼"
+    },
+    {
+     "a": "縁側",
+     "r": "ゑんがは"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000184",
+   "pid": "aozora",
+   "pages": [],
+   "no": 182,
+   "maki": "赤硝子",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "赤硝子外の光に押し黙り赤き人間何をか為すも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "外",
+     "r": "そと"
+    },
+    {
+     "a": "黙",
+     "r": "だま"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000185",
+   "pid": "aozora",
+   "pages": [],
+   "no": 183,
+   "maki": "赤硝子",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "二方に向きて犬ゐる赤硝子戸うちたたきても逃げざりにけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "二方",
+     "r": "ふたかた"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000186",
+   "pid": "aozora",
+   "pages": [],
+   "no": 184,
+   "maki": "寂しき日",
+   "bu": "",
+   "dai": "庭前小景",
+   "kotobagaki": "",
+   "author": "",
+   "text": "かぢめ舟けふのよき日にうちむれていちどきにあぐる棹のかなしも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000187",
+   "pid": "aozora",
+   "pages": [],
+   "no": 185,
+   "maki": "寂しき日",
+   "bu": "",
+   "dai": "庭前小景",
+   "kotobagaki": "",
+   "author": "",
+   "text": "春過ぎて夏来るらし白妙のところてんぐさ取る人のみゆ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "白妙",
+     "r": "しろたへ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000188",
+   "pid": "aozora",
+   "pages": [],
+   "no": 186,
+   "maki": "寂しき日",
+   "bu": "",
+   "dai": "庭前小景",
+   "kotobagaki": "",
+   "author": "",
+   "text": "日は麗ら薔薇あまりに色紅しわつと泣かむと思へどもわれ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "薔薇",
+     "r": "さうび"
+    },
+    {
+     "a": "紅",
+     "r": "あか"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000189",
+   "pid": "aozora",
+   "pages": [],
+   "no": 187,
+   "maki": "寂しき日",
+   "bu": "",
+   "dai": "庭前小景",
+   "kotobagaki": "",
+   "author": "",
+   "text": "日の光そこにかんかん真四角の氷の角は照らされにけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000190",
+   "pid": "aozora",
+   "pages": [],
+   "no": 188,
+   "maki": "寂しき日",
+   "bu": "",
+   "dai": "庭前小景",
+   "kotobagaki": "",
+   "author": "",
+   "text": "天を見て膨れかがやく河豚の腹ぽんと張り切る昼ふかみかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "河豚",
+     "r": "ふぐ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000191",
+   "pid": "aozora",
+   "pages": [],
+   "no": 189,
+   "maki": "寂しき日",
+   "bu": "",
+   "dai": "庭前小景",
+   "kotobagaki": "",
+   "author": "",
+   "text": "青芝にそつと放せば昼深み生の伊勢蝦飛びはねにたり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "生",
+     "r": "いき"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000192",
+   "pid": "aozora",
+   "pages": [],
+   "no": 190,
+   "maki": "寂しき日",
+   "bu": "",
+   "dai": "庭前小景",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ゆつたりと蒲団の綿は干されたり傍に鋭き赤たうがらし",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "傍",
+     "r": "そば"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000193",
+   "pid": "aozora",
+   "pages": [],
+   "no": 191,
+   "maki": "寂しき日",
+   "bu": "",
+   "dai": "庭前小景",
+   "kotobagaki": "",
+   "author": "",
+   "text": "しみじみと水にひたせど真珠貝遂に水をも吸はざりにけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000194",
+   "pid": "aozora",
+   "pages": [],
+   "no": 192,
+   "maki": "寂しき日",
+   "bu": "",
+   "dai": "庭前小景",
+   "kotobagaki": "",
+   "author": "",
+   "text": "餌舟に光り漕ぎ寄り静まれる舟いちどきに動きけるかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "餌舟",
+     "r": "ゑさぶね"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000195",
+   "pid": "aozora",
+   "pages": [],
+   "no": 193,
+   "maki": "鰻",
+   "bu": "",
+   "dai": "庭前小景",
+   "kotobagaki": "",
+   "author": "",
+   "text": "鰻籠はぢぎれむばかりゆららゆらら日をいつぱいに浴びてけるかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "浴",
+     "r": "あ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000196",
+   "pid": "aozora",
+   "pages": [],
+   "no": 194,
+   "maki": "鰻",
+   "bu": "",
+   "dai": "庭前小景",
+   "kotobagaki": "",
+   "author": "",
+   "text": "籠の中につまる鰻の底力うねりやまずも麗らかなれば",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "底力",
+     "r": "そこぢから"
+    },
+    {
+     "a": "麗",
+     "r": "うら"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000197",
+   "pid": "aozora",
+   "pages": [],
+   "no": 195,
+   "maki": "鰻",
+   "bu": "",
+   "dai": "庭前小景",
+   "kotobagaki": "",
+   "author": "",
+   "text": "思ひあまり躍りゆらめく鰻籠ぢつと抑ゆるこころなりけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000198",
+   "pid": "aozora",
+   "pages": [],
+   "no": 196,
+   "maki": "鰻",
+   "bu": "",
+   "dai": "庭前小景",
+   "kotobagaki": "",
+   "author": "",
+   "text": "麗らかやなにか恐れて鰻の児籠をするりと抜けてけるかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "麗",
+     "r": "うら"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000199",
+   "pid": "aozora",
+   "pages": [],
+   "no": 197,
+   "maki": "鰻",
+   "bu": "",
+   "dai": "庭前小景",
+   "kotobagaki": "",
+   "author": "",
+   "text": "庭もせにくれなゐふかき松葉菊鰻飛び超えゆくへ知らずも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000200",
+   "pid": "aozora",
+   "pages": [],
+   "no": 198,
+   "maki": "鰻",
+   "bu": "",
+   "dai": "庭前小景",
+   "kotobagaki": "",
+   "author": "",
+   "text": "麗らかに鰻探すと松葉菊わけて大きな目を瞠り居り",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "麗",
+     "r": "うら"
+    },
+    {
+     "a": "瞠",
+     "r": "みは"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000201",
+   "pid": "aozora",
+   "pages": [],
+   "no": 199,
+   "maki": "鰻",
+   "bu": "",
+   "dai": "庭前小景",
+   "kotobagaki": "",
+   "author": "",
+   "text": "紅き花をかきわけて見れば鰻の児隅にとろりと居たりけるかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000202",
+   "pid": "aozora",
+   "pages": [],
+   "no": 200,
+   "maki": "鰻",
+   "bu": "",
+   "dai": "庭前小景",
+   "kotobagaki": "",
+   "author": "",
+   "text": "松葉菊ふかく紅けば鰻の児安心をして動かざりにけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000203",
+   "pid": "aozora",
+   "pages": [],
+   "no": 201,
+   "maki": "鰻",
+   "bu": "",
+   "dai": "庭前小景",
+   "kotobagaki": "",
+   "author": "",
+   "text": "花の中に抑へられたり鰻の児命懸けにて逃げにしものを",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "命懸",
+     "r": "いのちが"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000204",
+   "pid": "aozora",
+   "pages": [],
+   "no": 202,
+   "maki": "海底",
+   "bu": "",
+   "dai": "庭前小景",
+   "kotobagaki": "",
+   "author": "",
+   "text": "寂しさに海を覗けばあはれあはれ章魚逃げてゆく真昼の光",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "章魚",
+     "r": "たこ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000205",
+   "pid": "aozora",
+   "pages": [],
+   "no": 203,
+   "maki": "海底",
+   "bu": "",
+   "dai": "庭前小景",
+   "kotobagaki": "",
+   "author": "",
+   "text": "章魚を逃がし海を覗けば章魚が歩行くほかに何にもなかりけるかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "章魚",
+     "r": "たこ"
+    },
+    {
+     "a": "覗",
+     "r": "のぞ"
+    },
+    {
+     "a": "章魚",
+     "r": "たこ"
+    },
+    {
+     "a": "歩行",
+     "r": "ある"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000206",
+   "pid": "aozora",
+   "pages": [],
+   "no": 204,
+   "maki": "海底",
+   "bu": "",
+   "dai": "庭前小景",
+   "kotobagaki": "",
+   "author": "",
+   "text": "海底の海鼠のそばに海胆居りそこに日の照る昼ふかみかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "海底",
+     "r": "うなぞこ"
+    },
+    {
+     "a": "海鼠",
+     "r": "なまこ"
+    },
+    {
+     "a": "海胆",
+     "r": "ひとで"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000207",
+   "pid": "aozora",
+   "pages": [],
+   "no": 205,
+   "maki": "海底",
+   "bu": "",
+   "dai": "庭前小景",
+   "kotobagaki": "",
+   "author": "",
+   "text": "動かねどをりをり光る朱海胆しみらに見れば歩めりにけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "朱海胆",
+     "r": "あかひとで"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000208",
+   "pid": "aozora",
+   "pages": [],
+   "no": 206,
+   "maki": "海底",
+   "bu": "",
+   "dai": "庭前小景",
+   "kotobagaki": "",
+   "author": "",
+   "text": "寂しさに手足動かす朱海胆海胆の上に重なりにけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "朱海胆",
+     "r": "あかひとで"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000209",
+   "pid": "aozora",
+   "pages": [],
+   "no": 207,
+   "maki": "海峡の夕焼",
+   "bu": "",
+   "dai": "庭前小景",
+   "kotobagaki": "",
+   "author": "",
+   "text": "石崖に子ども七人腰かけて河豚を釣り居り夕焼小焼",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000210",
+   "pid": "aozora",
+   "pages": [],
+   "no": 208,
+   "maki": "海峡の夕焼",
+   "bu": "",
+   "dai": "庭前小景",
+   "kotobagaki": "",
+   "author": "",
+   "text": "二本づつ鯖を投げ出す二本の手そろうて光りてありにけるかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000211",
+   "pid": "aozora",
+   "pages": [],
+   "no": 209,
+   "maki": "海峡の夕焼",
+   "bu": "",
+   "dai": "庭前小景",
+   "kotobagaki": "",
+   "author": "",
+   "text": "桟橋にどかりと一本大鮪放り出されてありたり日暮",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "一本",
+     "r": "いつぽん"
+    },
+    {
+     "a": "放",
+     "r": "はふ"
+    },
+    {
+     "a": "日暮",
+     "r": "ひくれ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000212",
+   "pid": "aozora",
+   "pages": [],
+   "no": 210,
+   "maki": "海峡の夕焼",
+   "bu": "",
+   "dai": "庭前小景",
+   "kotobagaki": "",
+   "author": "",
+   "text": "しんしんと夕さりくれば城ヶ島の魚籠押し流し汐満ちきたる",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "魚籠",
+     "r": "いけす"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000213",
+   "pid": "aozora",
+   "pages": [],
+   "no": 211,
+   "maki": "海峡の夕焼",
+   "bu": "",
+   "dai": "庭前小景",
+   "kotobagaki": "",
+   "author": "",
+   "text": "舟漕ぎ寄せ沖の魚籠にざらにあくる伊勢蝦赤し夏の夕ぐれ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "魚籠",
+     "r": "いけす"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000214",
+   "pid": "aozora",
+   "pages": [],
+   "no": 212,
+   "maki": "海峡の夕焼",
+   "bu": "",
+   "dai": "庭前小景",
+   "kotobagaki": "",
+   "author": "",
+   "text": "わが父を深く怨むと鰻籠蹴りころばしてゐたりけりわれ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000215",
+   "pid": "aozora",
+   "pages": [],
+   "no": 213,
+   "maki": "海峡の夕焼",
+   "bu": "",
+   "dai": "庭前小景",
+   "kotobagaki": "",
+   "author": "",
+   "text": "櫂おつとり舟に飛び下りむちやくちやに漕ぎまはる赤き赤き夕ぐれ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000216",
+   "pid": "aozora",
+   "pages": [],
+   "no": 214,
+   "maki": "城ヶ島の落日",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "城ヶ島の燈明台にぶん廻す落日避雷針に貫かれけるかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "落日",
+     "r": "いりひ"
+    },
+    {
+     "a": "貫",
+     "r": "ぬ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000217",
+   "pid": "aozora",
+   "pages": [],
+   "no": 215,
+   "maki": "城ヶ島の落日",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "城ヶ島さつとひろげし投網のなかに大日くるめきにけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "投網",
+     "r": "なげあみ"
+    },
+    {
+     "a": "大日",
+     "r": "だいにち"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000218",
+   "pid": "aozora",
+   "pages": [],
+   "no": 216,
+   "maki": "城ヶ島の落日",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "大日輪落ちつきはらひ伊豆の岬の天城山へとかかりけるかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "岬",
+     "r": "さき"
+    },
+    {
+     "a": "天城山",
+     "r": "あまぎやま"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000219",
+   "pid": "aozora",
+   "pages": [],
+   "no": 217,
+   "maki": "良夜",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "今宵ことに月明らかに海原の底のことごとはつきりと見ゆ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "今宵",
+     "r": "こよひ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000220",
+   "pid": "aozora",
+   "pages": [],
+   "no": 218,
+   "maki": "良夜",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "赤々と十五夜の月海にありそこに泳げる人ひとり見ゆ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000221",
+   "pid": "aozora",
+   "pages": [],
+   "no": 219,
+   "maki": "良夜",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "大の月海の中からまんまろくまろびいづれば吾泣かむとす",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "大",
+     "r": "だい"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000222",
+   "pid": "aozora",
+   "pages": [],
+   "no": 220,
+   "maki": "深夜",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "憤怒抑へかぬれば夜おそく起きてすぱりと切る鮪かも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "憤怒",
+     "r": "いきどほり"
+    },
+    {
+     "a": "鮪",
+     "r": "まぐろ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000223",
+   "pid": "aozora",
+   "pages": [],
+   "no": 221,
+   "maki": "漣",
+   "bu": "",
+   "dai": "病床吟",
+   "kotobagaki": "",
+   "author": "",
+   "text": "波つづき銀のさざなみはてしなくかがやく海を日もすがら見る",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "銀",
+     "r": "ぎん"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000224",
+   "pid": "aozora",
+   "pages": [],
+   "no": 222,
+   "maki": "漣",
+   "bu": "",
+   "dai": "病床吟",
+   "kotobagaki": "",
+   "author": "",
+   "text": "網高く干せるその上の漣のかぎり知られねさざなみの列",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "上",
+     "r": "へ"
+    },
+    {
+     "a": "列",
+     "r": "れつ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000225",
+   "pid": "aozora",
+   "pages": [],
+   "no": 223,
+   "maki": "漣",
+   "bu": "",
+   "dai": "病床吟",
+   "kotobagaki": "",
+   "author": "",
+   "text": "見廻せどたへて人こそなかりけれ海の漣ただ光り消え",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000226",
+   "pid": "aozora",
+   "pages": [],
+   "no": 224,
+   "maki": "漣",
+   "bu": "",
+   "dai": "病床吟",
+   "kotobagaki": "",
+   "author": "",
+   "text": "漣のこのもかのもの時折に光りまた消え照り光り消え",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "漣",
+     "r": "さゞなみ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000227",
+   "pid": "aozora",
+   "pages": [],
+   "no": 225,
+   "maki": "漣",
+   "bu": "",
+   "dai": "病床吟",
+   "kotobagaki": "",
+   "author": "",
+   "text": "日もすがら光り消えたりうねり波思ひ出したりまた忘れたり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000228",
+   "pid": "aozora",
+   "pages": [],
+   "no": 226,
+   "maki": "漣",
+   "bu": "",
+   "dai": "病床吟",
+   "kotobagaki": "",
+   "author": "",
+   "text": "鳥とまり光りゆらめく海中の雁木ひとつを消ぬがにぞ見る",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "海中",
+     "r": "わだなか"
+    },
+    {
+     "a": "雁木",
+     "r": "がんぎ"
+    },
+    {
+     "a": "消",
+     "r": "け"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000229",
+   "pid": "aozora",
+   "pages": [],
+   "no": 227,
+   "maki": "漣",
+   "bu": "",
+   "dai": "病床吟",
+   "kotobagaki": "",
+   "author": "",
+   "text": "音もなき海のかたへの麗らなるわが屋の下のさざなみの列",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "屋",
+     "r": "や"
+    },
+    {
+     "a": "列",
+     "r": "れつ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000230",
+   "pid": "aozora",
+   "pages": [],
+   "no": 228,
+   "maki": "漣",
+   "bu": "",
+   "dai": "病床吟",
+   "kotobagaki": "",
+   "author": "",
+   "text": "音もなき真夏昼なか音もなく鳥は雁木を去りにけるかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000231",
+   "pid": "aozora",
+   "pages": [],
+   "no": 229,
+   "maki": "漣",
+   "bu": "",
+   "dai": "病床吟",
+   "kotobagaki": "",
+   "author": "",
+   "text": "麗らかや此方へ此方へかがやき来る沖のさざなみかぎり知られず",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "此方",
+     "r": "こなた"
+    },
+    {
+     "a": "此方",
+     "r": "こなた"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000232",
+   "pid": "aozora",
+   "pages": [],
+   "no": 230,
+   "maki": "漣",
+   "bu": "",
+   "dai": "病床吟",
+   "kotobagaki": "",
+   "author": "",
+   "text": "漣の上にちらばるさざなみのうへのつり舟見れど飽かなく",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000233",
+   "pid": "aozora",
+   "pages": [],
+   "no": 231,
+   "maki": "漣",
+   "bu": "",
+   "dai": "病床吟",
+   "kotobagaki": "",
+   "author": "",
+   "text": "漣の光りかがやく昼深しぽんと林檎を棄てにけるかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000234",
+   "pid": "aozora",
+   "pages": [],
+   "no": 232,
+   "maki": "舟",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "うつらうつら海に舟こそ音すなれいかなる舟の通るなるらむ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000235",
+   "pid": "aozora",
+   "pages": [],
+   "no": 233,
+   "maki": "澪の雨",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "しみじみと海に雨ふり澪の雨利休鼠となりてけるかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "澪",
+     "r": "みを"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000236",
+   "pid": "aozora",
+   "pages": [],
+   "no": 234,
+   "maki": "澪の雨",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "城ヶ島のさみどりの上にふる雨の今朝ふる雨のしみらなるかな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "上",
+     "r": "へ"
+    },
+    {
+     "a": "今朝",
+     "r": "けさ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000237",
+   "pid": "aozora",
+   "pages": [],
+   "no": 235,
+   "maki": "澪の雨",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "北斎の簑と笠とが時をりに投網ひろぐるふる雨の中",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "投網",
+     "r": "とあみ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000238",
+   "pid": "aozora",
+   "pages": [],
+   "no": 236,
+   "maki": "澪の雨",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "海の中に光り輪を画く澪のすぢ末はわかれて行方知らずも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "画",
+     "r": "か"
+    },
+    {
+     "a": "澪",
+     "r": "みを"
+    },
+    {
+     "a": "行方",
+     "r": "ゆくへ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000239",
+   "pid": "aozora",
+   "pages": [],
+   "no": 237,
+   "maki": "澪の雨",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "漕ぎつれていそぐ釣舟二方に濡れて消えゆくあまの釣舟",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "二方",
+     "r": "ふたかた"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000240",
+   "pid": "aozora",
+   "pages": [],
+   "no": 238,
+   "maki": "澪の雨",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "二方になりてわかるるあま小舟澪も二手にわかれけるかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "二方",
+     "r": "ふたかた"
+    },
+    {
+     "a": "澪",
+     "r": "みを"
+    },
+    {
+     "a": "二手",
+     "r": "ふたて"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000241",
+   "pid": "aozora",
+   "pages": [],
+   "no": 239,
+   "maki": "澪の雨",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "通り矢と城ヶ島辺にふる雨の間の入海舟わかれゆく",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "間",
+     "r": "あひ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000242",
+   "pid": "aozora",
+   "pages": [],
+   "no": 240,
+   "maki": "薔薇静観",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "大きなる紅薔薇の花ゆくりなくぱつと真紅にひらきけるかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "紅薔薇",
+     "r": "べにばら"
+    },
+    {
+     "a": "真紅",
+     "r": "まつか"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000243",
+   "pid": "aozora",
+   "pages": [],
+   "no": 241,
+   "maki": "薔薇静観",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "目を開けてつくづく見れば薔薇の木に薔薇が真紅に咲いてけるかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "開",
+     "r": "あ"
+    },
+    {
+     "a": "薔薇",
+     "r": "ばら"
+    },
+    {
+     "a": "真紅",
+     "r": "まつか"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000244",
+   "pid": "aozora",
+   "pages": [],
+   "no": 242,
+   "maki": "薔薇静観",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "薔薇の木に薔薇の花咲くあなかしこ何の不思議もないけれどなも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000245",
+   "pid": "aozora",
+   "pages": [],
+   "no": 243,
+   "maki": "薔薇静観",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "風くれば薔薇はたちまち火となれり躍りあがるらむうれしき風に",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "躍",
+     "r": "をど"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000246",
+   "pid": "aozora",
+   "pages": [],
+   "no": 244,
+   "maki": "薔薇静観",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "驚きてわが身も光るばかりかな大きなる薔薇の花照りかへる",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "薔薇",
+     "r": "ばら"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000247",
+   "pid": "aozora",
+   "pages": [],
+   "no": 245,
+   "maki": "薔薇静観",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ただ見ればこれかりそめの薔薇の花驚きて見ればその花動く",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000248",
+   "pid": "aozora",
+   "pages": [],
+   "no": 246,
+   "maki": "薔薇静観",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "午過ぎてますます紅き薔薇の花ますます重く傾むきゆくも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "午",
+     "r": "ひる"
+    },
+    {
+     "a": "紅",
+     "r": "あか"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000249",
+   "pid": "aozora",
+   "pages": [],
+   "no": 247,
+   "maki": "薔薇静観",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "薔薇の花うちゆるがむとせしかども思ひかへしつますます光り",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000250",
+   "pid": "aozora",
+   "pages": [],
+   "no": 248,
+   "maki": "薔薇静観",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "大きなる何事もなき薔薇の花ふとのはづみにくづれけるかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000251",
+   "pid": "aozora",
+   "pages": [],
+   "no": 249,
+   "maki": "急須と茶碗",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "日の光い照りかへせばくれなゐに急須動きてしじに燃ゆるも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "急須",
+     "r": "きふす"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000252",
+   "pid": "aozora",
+   "pages": [],
+   "no": 250,
+   "maki": "急須と茶碗",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "燃えあがる急須つらつらそれの息をそばの茶碗に薫しけるかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "薫",
+     "r": "かを"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000253",
+   "pid": "aozora",
+   "pages": [],
+   "no": 251,
+   "maki": "急須と茶碗",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "急須燃えそしてまろらに茶碗ゐるこの親しさの限り知られず",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000254",
+   "pid": "aozora",
+   "pages": [],
+   "no": 252,
+   "maki": "急須と茶碗",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "日ぐらし急須と茶碗とさしむかひ泣くが如しもその湯気立てば",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000255",
+   "pid": "aozora",
+   "pages": [],
+   "no": 253,
+   "maki": "急須と茶碗",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ふつふつと小さき生物香を放つうつくしきかもまんまろな盆に",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "小",
+     "r": "ち"
+    },
+    {
+     "a": "生物",
+     "r": "いきもの"
+    },
+    {
+     "a": "香",
+     "r": "か"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000256",
+   "pid": "aozora",
+   "pages": [],
+   "no": 254,
+   "maki": "急須と茶碗",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "いついかに誰がさしよせし知らねども涙ぐましも茶碗と急須",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "誰",
+     "r": "た"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000257",
+   "pid": "aozora",
+   "pages": [],
+   "no": 255,
+   "maki": "急須と茶碗",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "急須燃え茶碗湯気ふくそれよりもなほ温かきなからひにして",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000258",
+   "pid": "aozora",
+   "pages": [],
+   "no": 256,
+   "maki": "急須と茶碗",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "思ひあまり急須と茶碗と人知れずそがひに廻り泣けるごとしも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "廻",
+     "r": "まは"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000259",
+   "pid": "aozora",
+   "pages": [],
+   "no": 257,
+   "maki": "急須と茶碗",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "何ぢやとてそげなそしらぬふりをする急須こち向け日も暮るるぞよ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "何",
+     "r": "なん"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000260",
+   "pid": "aozora",
+   "pages": [],
+   "no": 258,
+   "maki": "急須と茶碗",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "盆の上に急須ありまた茶碗ゐるここの世界も安からなくに",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000261",
+   "pid": "aozora",
+   "pages": [],
+   "no": 259,
+   "maki": "地面と野菜",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "大きなる足が地面を踏みつけゆく力あふるる人間の足が",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "地面",
+     "r": "ぢべた"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000262",
+   "pid": "aozora",
+   "pages": [],
+   "no": 260,
+   "maki": "地面と野菜",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "畑に出でて見ればキヤベツの玉の列白猫のごと輝きて居る",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "列",
+     "r": "れつ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000263",
+   "pid": "aozora",
+   "pages": [],
+   "no": 261,
+   "maki": "地面と野菜",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "地面踏めば蕪みどりの葉をみだすいつくしきかもわが足の上",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "地面",
+     "r": "ぢべた"
+    },
+    {
+     "a": "蕪",
+     "r": "かぶら"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000264",
+   "pid": "aozora",
+   "pages": [],
+   "no": 262,
+   "maki": "地面と野菜",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "地面より転げ出でたる玉キヤベツいつくしきかも皆玉のごと",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "地面",
+     "r": "ぢべた"
+    },
+    {
+     "a": "転",
+     "r": "ころ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000265",
+   "pid": "aozora",
+   "pages": [],
+   "no": 263,
+   "maki": "地面と野菜",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "摩訶不思議思ひもかけぬわが知らぬ大きなるキヤベツがわが前に居る",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "摩訶不思議",
+     "r": "まかふしぎ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000266",
+   "pid": "aozora",
+   "pages": [],
+   "no": 264,
+   "maki": "地面と野菜",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "しんしんと湧きあがる力新らしきキヤベツを内から弾き飛ばすも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "内",
+     "r": "うち"
+    },
+    {
+     "a": "弾",
+     "r": "はぢ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000267",
+   "pid": "aozora",
+   "pages": [],
+   "no": 265,
+   "maki": "地面と野菜",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "さ緑のキヤベツの球葉いく層光る内より弾けたりけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "球葉",
+     "r": "たまば"
+    },
+    {
+     "a": "層",
+     "r": "かさね"
+    },
+    {
+     "a": "内",
+     "r": "なか"
+    },
+    {
+     "a": "弾",
+     "r": "はぢ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000268",
+   "pid": "aozora",
+   "pages": [],
+   "no": 266,
+   "maki": "地面と野菜",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "大きなる眼がキヤベツを見てゐたりたまらず涙ながしけるかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "眼",
+     "r": "まなこ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000269",
+   "pid": "aozora",
+   "pages": [],
+   "no": 267,
+   "maki": "地面と野菜",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ふと見つけて難有きかもさ緑の野菜のかげの大きな片足",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000270",
+   "pid": "aozora",
+   "pages": [],
+   "no": 268,
+   "maki": "投網うちの帰途",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "重々と濡れし投網を蕪畑蕪葉の上に吾がかい手操る",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "濡",
+     "r": "ぬ"
+    },
+    {
+     "a": "投網",
+     "r": "とあみ"
+    },
+    {
+     "a": "蕪畑",
+     "r": "かぶらばた"
+    },
+    {
+     "a": "蕪葉",
+     "r": "かぶらば"
+    },
+    {
+     "a": "上",
+     "r": "へ"
+    },
+    {
+     "a": "手操",
+     "r": "たぐ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000271",
+   "pid": "aozora",
+   "pages": [],
+   "no": 269,
+   "maki": "投網うちの帰途",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "蕪の葉に濡れし投網をかいたぐり飛び飜る河豚を抑へたりけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "蕪",
+     "r": "かぶ"
+    },
+    {
+     "a": "投網",
+     "r": "とあみ"
+    },
+    {
+     "a": "飜",
+     "r": "かへ"
+    },
+    {
+     "a": "河豚",
+     "r": "ふぐ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000272",
+   "pid": "aozora",
+   "pages": [],
+   "no": 270,
+   "maki": "投網うちの帰途",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "蕪の葉に濡れし投網を真昼間ひきずりて歩む男なりけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "蕪",
+     "r": "かぶ"
+    },
+    {
+     "a": "投網",
+     "r": "とあみ"
+    },
+    {
+     "a": "真昼間",
+     "r": "まつぴるま"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000273",
+   "pid": "aozora",
+   "pages": [],
+   "no": 271,
+   "maki": "昼休憩",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "麦藁帽子野菜の反射いつぱいに受けて西日にかがみてあるも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000274",
+   "pid": "aozora",
+   "pages": [],
+   "no": 272,
+   "maki": "昼休憩",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "昼休憩秋の地面に投げいだす百姓の恋もあはれなるかな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "昼休憩",
+     "r": "ひるやすみ"
+    },
+    {
+     "a": "地面",
+     "r": "ぢべた"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000275",
+   "pid": "aozora",
+   "pages": [],
+   "no": 273,
+   "maki": "昼休憩",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "銀いろの蕪の中に坐りたる面黒の眼のみ大きな娘",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "銀",
+     "r": "ぎん"
+    },
+    {
+     "a": "蕪",
+     "r": "かぶら"
+    },
+    {
+     "a": "面黒",
+     "r": "おもぐろ"
+    },
+    {
+     "a": "眼",
+     "r": "め"
+    },
+    {
+     "a": "大",
+     "r": "おほ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000276",
+   "pid": "aozora",
+   "pages": [],
+   "no": 274,
+   "maki": "昼休憩",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "積藁のかげむくむく湧きあがるパイプの煙見つつ真赤な日にあたり居り",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000277",
+   "pid": "aozora",
+   "pages": [],
+   "no": 275,
+   "maki": "昼休憩",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "秋の田の稲の刈穂の新藁の積藁のかげに誰か居るぞも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000278",
+   "pid": "aozora",
+   "pages": [],
+   "no": 276,
+   "maki": "昼休憩",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "寂しけば娘ひきよせこの男力いつぱいに抱きぬるかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000279",
+   "pid": "aozora",
+   "pages": [],
+   "no": 277,
+   "maki": "昼休憩",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "日ざかりの黒樫の木の南風素つ裸なる夫婦に吹くも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "夫婦",
+     "r": "めうと"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000280",
+   "pid": "aozora",
+   "pages": [],
+   "no": 278,
+   "maki": "昼休憩",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "畑に飛んで交む鶺鴒一点の白金光となりてけるかな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "交",
+     "r": "つる"
+    },
+    {
+     "a": "鶺鴒",
+     "r": "せきれい"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000281",
+   "pid": "aozora",
+   "pages": [],
+   "no": 279,
+   "maki": "昼休憩",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "道のべの馬糞ひろひもあかあかと照らし出されつ秋風吹けば",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "馬糞",
+     "r": "まぐそ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000282",
+   "pid": "aozora",
+   "pages": [],
+   "no": 280,
+   "maki": "泥豚",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "豚小屋に呻きころがる豚のかずいつくしきかもみな生けりけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "呻",
+     "r": "うめ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000283",
+   "pid": "aozora",
+   "pages": [],
+   "no": 281,
+   "maki": "泥豚",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "豚小屋の上の棕梠の木の裂葉より日は八方に輝きにけれ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000284",
+   "pid": "aozora",
+   "pages": [],
+   "no": 282,
+   "maki": "泥豚",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "大きなる白の泥豚照りかがやき鼾とどろに地面を揺る",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "鼾",
+     "r": "いびき"
+    },
+    {
+     "a": "地面",
+     "r": "ぢべた"
+    },
+    {
+     "a": "揺",
+     "r": "ゆす"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000285",
+   "pid": "aozora",
+   "pages": [],
+   "no": 283,
+   "maki": "泥豚",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "いぎたなき豚のいびきのともすれば霊妙音に歌ふなりけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000286",
+   "pid": "aozora",
+   "pages": [],
+   "no": 284,
+   "maki": "泥豚",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "泥豚のあはれな鼾日もすがら雁来紅をゆすりてあるも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000287",
+   "pid": "aozora",
+   "pages": [],
+   "no": 285,
+   "maki": "泥豚",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "逞ましき種豚の鼾はりつめたる雌が腹の乳に沁みて響くかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "種豚",
+     "r": "たねぶた"
+    },
+    {
+     "a": "雌",
+     "r": "め"
+    },
+    {
+     "a": "乳",
+     "r": "ちゝ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000288",
+   "pid": "aozora",
+   "pages": [],
+   "no": 286,
+   "maki": "泥豚",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "棕梠の木に人攀ぢのぼり棕梠の木の赤き毛をむく真昼なりけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000289",
+   "pid": "aozora",
+   "pages": [],
+   "no": 287,
+   "maki": "泥豚",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "棕梠の木のしみ輝る下に家畜あはれ命やるせなくいまつるみたり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "下",
+     "r": "した"
+    },
+    {
+     "a": "家畜",
+     "r": "けもの"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000290",
+   "pid": "aozora",
+   "pages": [],
+   "no": 288,
+   "maki": "泥豚",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "種豚は深く押し黙り棕梠の木のかがやけるもとをまた廻りたり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "種豚",
+     "r": "たねぶた"
+    },
+    {
+     "a": "黙",
+     "r": "だま"
+    },
+    {
+     "a": "廻",
+     "r": "めぐ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000291",
+   "pid": "aozora",
+   "pages": [],
+   "no": 289,
+   "maki": "泥豚",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "白豚の精の真玉のあはれあはれ竜胆の花にころがりつるか",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "真玉",
+     "r": "またま"
+    },
+    {
+     "a": "竜胆",
+     "r": "りんだう"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000292",
+   "pid": "aozora",
+   "pages": [],
+   "no": 290,
+   "maki": "泥豚",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "豚小屋は寂し下ゆく路赤く極まり尽きて海光る見ゆ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "極",
+     "r": "きは"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000293",
+   "pid": "aozora",
+   "pages": [],
+   "no": 291,
+   "maki": "泥豚",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "激しく空腹じくなりけむつるみてのち一心に豚は草食めりけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "空腹",
+     "r": "ひも"
+    },
+    {
+     "a": "食",
+     "r": "は"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000294",
+   "pid": "aozora",
+   "pages": [],
+   "no": 292,
+   "maki": "泥豚",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ひとかたまり豚の児が頭うち振るが可哀いや張りつめし母の八乳房の上に",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "頭",
+     "r": "かうべ"
+    },
+    {
+     "a": "可哀",
+     "r": "かは"
+    },
+    {
+     "a": "八乳房",
+     "r": "やちぶさ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000295",
+   "pid": "aozora",
+   "pages": [],
+   "no": 293,
+   "maki": "泥豚",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "現身の泥豚の児が啼いて居りその泥豚の児と児重なり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "現身",
+     "r": "うつしみ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000296",
+   "pid": "aozora",
+   "pages": [],
+   "no": 294,
+   "maki": "泥豚",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "生めよ殖えよしんじつ食ひいきいきと生のいのちに相触れよ豚よ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "殖",
+     "r": "ふ"
+    },
+    {
+     "a": "食",
+     "r": "くら"
+    },
+    {
+     "a": "生",
+     "r": "いき"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000297",
+   "pid": "aozora",
+   "pages": [],
+   "no": 295,
+   "maki": "泥豚",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "五郎作よしんじつ不愍と思ふならば豚を豚として転がして置け",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "不愍",
+     "r": "ふびん"
+    },
+    {
+     "a": "転",
+     "r": "ころ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000298",
+   "pid": "aozora",
+   "pages": [],
+   "no": 296,
+   "maki": "泥豚",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夕日が赤し餌をやれ五郎作けだものは饑うれば糞も食はむずるぞ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "食",
+     "r": "くら"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000299",
+   "pid": "aozora",
+   "pages": [],
+   "no": 297,
+   "maki": "泥豚",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "寂しきにか豚は豚どちしみじみと入日に起きて小便をしぬ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "小便",
+     "r": "しよんべん"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000300",
+   "pid": "aozora",
+   "pages": [],
+   "no": 298,
+   "maki": "泥豚",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "家畜らは赤くかがやき照りかへる世界の中に照り揺れやまず",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "家畜",
+     "r": "けもの"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000301",
+   "pid": "aozora",
+   "pages": [],
+   "no": 299,
+   "maki": "丘の立秋",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "片岡に粟と豆とが赤ちやけて深くささやく熟れにけるかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "熟",
+     "r": "う"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000302",
+   "pid": "aozora",
+   "pages": [],
+   "no": 300,
+   "maki": "丘の立秋",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "穏かに深く息づく枝豆に夕日あかあかと照りしみやまね",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "穏",
+     "r": "おだや"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000303",
+   "pid": "aozora",
+   "pages": [],
+   "no": 301,
+   "maki": "丘の立秋",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "しみじみと豆をもぎれば豆の声夕日照り沁み秋の丘べに",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000304",
+   "pid": "aozora",
+   "pages": [],
+   "no": 302,
+   "maki": "丘の立秋",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あかき日の光の中に転げ出て恍れたる豆が声絶えてゐる",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "転",
+     "r": "ころ"
+    },
+    {
+     "a": "恍",
+     "r": "ほ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000305",
+   "pid": "aozora",
+   "pages": [],
+   "no": 303,
+   "maki": "丘の立秋",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "はや秋深く俯むく豆畑の麦稈帽子の縁の痛さよ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "俯",
+     "r": "うつ"
+    },
+    {
+     "a": "縁",
+     "r": "つば"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000306",
+   "pid": "aozora",
+   "pages": [],
+   "no": 304,
+   "maki": "犬の小便",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夕日赤し小犬しみらに岐れ路の間の青木に小便をすも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "岐",
+     "r": "わか"
+    },
+    {
+     "a": "路",
+     "r": "みち"
+    },
+    {
+     "a": "間",
+     "r": "あひ"
+    },
+    {
+     "a": "小便",
+     "r": "しよんべん"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000307",
+   "pid": "aozora",
+   "pages": [],
+   "no": 305,
+   "maki": "犬の小便",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "青木に犬の小便したたれり美くしきかな小さき青木に",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "小便",
+     "r": "しよんべん"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000308",
+   "pid": "aozora",
+   "pages": [],
+   "no": 306,
+   "maki": "犬の小便",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "目の前にしんじつかかる一本の青木立てりと知らざりしかな",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "一本",
+     "r": "いつぽん"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000309",
+   "pid": "aozora",
+   "pages": [],
+   "no": 307,
+   "maki": "犬の小便",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "何といふ虔ましさぞよあかあかと青木一本日に燃えてゐる",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "虔",
+     "r": "つつ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000310",
+   "pid": "aozora",
+   "pages": [],
+   "no": 308,
+   "maki": "犬の小便",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "小便して犬は寂しく飛びゆけり火の如く野菜をかきわくる見ゆ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "小便",
+     "r": "しよんべん"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000311",
+   "pid": "aozora",
+   "pages": [],
+   "no": 309,
+   "maki": "秋高し",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "枯草の籠のなかなる赤ん坊が大きなる馬に乗りてゆきにけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000312",
+   "pid": "aozora",
+   "pages": [],
+   "no": 310,
+   "maki": "秋高し",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "秋高しくゐいくゐいりりりと鳴く鳥の声は野山をけふかけめぐる",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000313",
+   "pid": "aozora",
+   "pages": [],
+   "no": 311,
+   "maki": "黍畑",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "三日の月ほそくきらめく黍畑黍は黍とし目の醒めてゐつ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "黍畑",
+     "r": "きびばたけ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000314",
+   "pid": "aozora",
+   "pages": [],
+   "no": 312,
+   "maki": "黍畑",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "黍畑の黍の上なる三日の月月より細かき糠星のかず",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "黍畑",
+     "r": "きびばた"
+    },
+    {
+     "a": "細",
+     "r": "こま"
+    },
+    {
+     "a": "糠星",
+     "r": "ぬかぼし"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000315",
+   "pid": "aozora",
+   "pages": [],
+   "no": 313,
+   "maki": "黍畑",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "森羅万象寝しづみ紅きもろこしの房のみ動く醒めにけらしも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "森羅万象",
+     "r": "ものなべて"
+    },
+    {
+     "a": "紅",
+     "r": "あか"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000316",
+   "pid": "aozora",
+   "pages": [],
+   "no": 314,
+   "maki": "黍畑",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "三日の月真の闇夜にあらねども真の闇夜よりさらにさみしも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000317",
+   "pid": "aozora",
+   "pages": [],
+   "no": 315,
+   "maki": "黍畑",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ほのかなる人の言葉に触りたれば驚くものか黍は小夜ふけ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "触",
+     "r": "ふ"
+    },
+    {
+     "a": "小夜",
+     "r": "さよ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000318",
+   "pid": "aozora",
+   "pages": [],
+   "no": 316,
+   "maki": "黍畑",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "三日の月谷底見れば廓にはならぶ華魁豆の如しも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "廓",
+     "r": "くるわ"
+    },
+    {
+     "a": "華魁",
+     "r": "おいらん"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000319",
+   "pid": "aozora",
+   "pages": [],
+   "no": 317,
+   "maki": "黍畑",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "小夜ふけてほかに人こそ音すなれいづこの闇を行けるなるらむ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "小夜",
+     "r": "さよ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000320",
+   "pid": "aozora",
+   "pages": [],
+   "no": 318,
+   "maki": "猫のうぶごゑ",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "烏羽玉の闇の粟穂の奥ふかくするどき猫のうぶ声きこゆ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "烏羽玉",
+     "r": "ぬばたま"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000321",
+   "pid": "aozora",
+   "pages": [],
+   "no": 319,
+   "maki": "猫のうぶごゑ",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "闇の夜に躍り出でたる金無垢の生の子猫のうぶ声きこゆ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "生",
+     "r": "いき"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000322",
+   "pid": "aozora",
+   "pages": [],
+   "no": 320,
+   "maki": "猫のうぶごゑ",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "母猫の大黒猫の闇に坐り大まかに啼く子を産み落し",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "母猫",
+     "r": "おやねこ"
+    },
+    {
+     "a": "大黒",
+     "r": "おほくろ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000323",
+   "pid": "aozora",
+   "pages": [],
+   "no": 321,
+   "maki": "猫のうぶごゑ",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "闇の夜にうまれ落ちたる猫の児があはれあはれ猫の声すもよいま",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000324",
+   "pid": "aozora",
+   "pages": [],
+   "no": 322,
+   "maki": "猫のうぶごゑ",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "闇の夜に猫のうぶごゑ聴くものは金環ほそきついたちの月",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "金環",
+     "r": "きんくわん"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000325",
+   "pid": "aozora",
+   "pages": [],
+   "no": 323,
+   "maki": "闇夜",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "何事か為さでかなはぬ願湧く海の夜ふけの闇のそよかぜ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000326",
+   "pid": "aozora",
+   "pages": [],
+   "no": 324,
+   "maki": "闇夜",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "闇の夜も生活たたねばとなりびと舟ひき下ろし漕ぎいでてゆく",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "生活",
+     "r": "くらし"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000327",
+   "pid": "aozora",
+   "pages": [],
+   "no": 325,
+   "maki": "闇夜",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "戸あくれば金無垢の月いま走る幽かに暗きそよかぜの中",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "中",
+     "r": "うち"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000328",
+   "pid": "aozora",
+   "pages": [],
+   "no": 326,
+   "maki": "闇夜",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "闇の海に金無垢の月いとほそくかげうつしほのに消えにけるかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000329",
+   "pid": "aozora",
+   "pages": [],
+   "no": 327,
+   "maki": "闇夜",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "闇ふかしひとりひそかに寝ざめして思ふはおのがいのちなりけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000330",
+   "pid": "aozora",
+   "pages": [],
+   "no": 328,
+   "maki": "闇夜",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "空暗く入海暗し海よりも黒き島見え松動く見ゆ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000331",
+   "pid": "aozora",
+   "pages": [],
+   "no": 329,
+   "maki": "闇夜",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "一心に島と陸とに鳴く虫の声澄み入れり闇夜なりけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "陸",
+     "r": "くが"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000332",
+   "pid": "aozora",
+   "pages": [],
+   "no": 330,
+   "maki": "黒き花瓶",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "小夜ふけて夜のふけゆけばきりぎりす黒き花瓶を啖へるらしも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "花瓶",
+     "r": "くわびん"
+    },
+    {
+     "a": "啖",
+     "r": "くら"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000333",
+   "pid": "aozora",
+   "pages": [],
+   "no": 331,
+   "maki": "黒き花瓶",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "昼見てし黒き花瓶のありどころあやめもわかね夜の闇の中",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000334",
+   "pid": "aozora",
+   "pages": [],
+   "no": 332,
+   "maki": "黒き花瓶",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "小夜ふけて黒き花瓶の把手より幽かに光さすかとぞ思ふ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "把手",
+     "r": "とりて"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000335",
+   "pid": "aozora",
+   "pages": [],
+   "no": 333,
+   "maki": "二本の棕梠",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "天の河棕梠と棕梠との間より幽かに白し闌けにけらしも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "闌",
+     "r": "ふ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000336",
+   "pid": "aozora",
+   "pages": [],
+   "no": 334,
+   "maki": "二本の棕梠",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "耳澄ませば闇の夜天をしろしめす図り知られぬものの声すも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "夜天",
+     "r": "やてん"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000337",
+   "pid": "aozora",
+   "pages": [],
+   "no": 335,
+   "maki": "二本の棕梠",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "棕梠二本ここの夜天の吾が声は幽かなれども偽れなくに",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000338",
+   "pid": "aozora",
+   "pages": [],
+   "no": 336,
+   "maki": "二本の棕梠",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "何物の澄みて流るる知らねどもここの夜天の光ふかしも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000339",
+   "pid": "aozora",
+   "pages": [],
+   "no": 337,
+   "maki": "二本の棕梠",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あなかしこ棕梠と棕梠との間より閻浮檀金の月いでにけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000340",
+   "pid": "aozora",
+   "pages": [],
+   "no": 338,
+   "maki": "水辺の午後",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "鬱蒼と楊柳かがやくまさびしき遠き入江に日の移るなり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "鬱蒼",
+     "r": "こんもり"
+    },
+    {
+     "a": "楊柳",
+     "r": "やなぎ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000341",
+   "pid": "aozora",
+   "pages": [],
+   "no": 339,
+   "maki": "水辺の午後",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "かげ曇る岸の葉柳時をりに深くかがやくなほ堪へられず",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000342",
+   "pid": "aozora",
+   "pages": [],
+   "no": 340,
+   "maki": "水辺の午後",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "漣さざなみ何が憂しとて鈍銀に暗くかげりてまた照るものか",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "鈍銀",
+     "r": "にぶぎん"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000343",
+   "pid": "aozora",
+   "pages": [],
+   "no": 341,
+   "maki": "水辺の午後",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "千鳥ゐるされどあかるきさざなみの銀無垢光に眼も向けられず",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "眼",
+     "r": "め"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000344",
+   "pid": "aozora",
+   "pages": [],
+   "no": 342,
+   "maki": "水辺の午後",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "水の辺に光りゆらめく河やなぎ木橋わたればわれもゆらめく",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000345",
+   "pid": "aozora",
+   "pages": [],
+   "no": 343,
+   "maki": "水辺の午後",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "橋をわたりつくづくおもふこれぞこのいづこより来し水のながれか",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000346",
+   "pid": "aozora",
+   "pages": [],
+   "no": 344,
+   "maki": "水辺の午後",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "三角と豆々の葉の木が二本舟が一艘さざなみの列",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000347",
+   "pid": "aozora",
+   "pages": [],
+   "no": 345,
+   "maki": "水辺の午後",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "とま舟の苫はねのけて北斎の爺が顔出す秋の夕ぐれ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "爺",
+     "r": "おぢ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000348",
+   "pid": "aozora",
+   "pages": [],
+   "no": 346,
+   "maki": "水辺の午後",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "照りかへる銀のさざなみ河やなぎ白き月さへその上に見ゆ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000349",
+   "pid": "aozora",
+   "pages": [],
+   "no": 347,
+   "maki": "水辺の午後",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "はろばろに波かがやけば堪へがたしぴんと一匹釣りにけるかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000350",
+   "pid": "aozora",
+   "pages": [],
+   "no": 348,
+   "maki": "水辺の午後",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "銀のごと時にひろごる網の目はこれ寂寥の眼なりけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "寂寥",
+     "r": "せきれう"
+    },
+    {
+     "a": "眼",
+     "r": "まなこ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000351",
+   "pid": "aozora",
+   "pages": [],
+   "no": 349,
+   "maki": "水辺の午後",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "蘆と蘆幽かに銀のさざなみを立ててかこちぬ今日も暮れぬと",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000352",
+   "pid": "aozora",
+   "pages": [],
+   "no": 350,
+   "maki": "水辺の午後",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "海原のこのもかのもの銀鼠千々に砕くるかのもこのもに",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "海原",
+     "r": "うなばら"
+    },
+    {
+     "a": "銀鼠",
+     "r": "ぎんねずみ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000353",
+   "pid": "aozora",
+   "pages": [],
+   "no": 351,
+   "maki": "銀ながし",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "鳥の声黒樫の木の照り円き梢よりきこゆ日の光満ち",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "円",
+     "r": "まろ"
+    },
+    {
+     "a": "梢",
+     "r": "うれ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000354",
+   "pid": "aozora",
+   "pages": [],
+   "no": 352,
+   "maki": "銀ながし",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "遠丘の黒樫の木の幹なかば銀ながしたる秋の海見ゆ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "遠丘",
+     "r": "とほおか"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000355",
+   "pid": "aozora",
+   "pages": [],
+   "no": 353,
+   "maki": "銀ながし",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "遠丘の向うに光る秋の海そこにくつきり人鍬をうつ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000356",
+   "pid": "aozora",
+   "pages": [],
+   "no": 354,
+   "maki": "銀ながし",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "岬見え向うの海とこなたの海光りかがやくこなたは暗く",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000357",
+   "pid": "aozora",
+   "pages": [],
+   "no": 355,
+   "maki": "銀ながし",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "丘の上に海見え海に岬見えその上の海に舟いそぐ見ゆ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000358",
+   "pid": "aozora",
+   "pages": [],
+   "no": 356,
+   "maki": "銀ながし",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "朝出でてゆき遥けかりあま小舟黒胡麻のごとく真昼散らばり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "黒胡麻",
+     "r": "くろごま"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000359",
+   "pid": "aozora",
+   "pages": [],
+   "no": 357,
+   "maki": "銀ながし",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "大空に銀の点々ちらばるはあまのつり舟櫓を漕げるなり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000360",
+   "pid": "aozora",
+   "pages": [],
+   "no": 358,
+   "maki": "銀ながし",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "この岬行き尽すまで急がむと思ひきはめて吾が辿るなり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000361",
+   "pid": "aozora",
+   "pages": [],
+   "no": 359,
+   "maki": "銀ながし",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "金いろに光りてほそき磯はなのその一角に日の消えんとす",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000362",
+   "pid": "aozora",
+   "pages": [],
+   "no": 360,
+   "maki": "二町谷小景",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "網の目に閻浮檀金の仏ゐて光りかがやく秋の夕ぐれ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "閻浮檀金",
+     "r": "えんぶだごん"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000363",
+   "pid": "aozora",
+   "pages": [],
+   "no": 361,
+   "maki": "二町谷小景",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "両の掌に輝りてこぼるる魚のかず掬へども掬へどもまた輝りこぼるる",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "両",
+     "r": "もろ"
+    },
+    {
+     "a": "掌",
+     "r": "て"
+    },
+    {
+     "a": "輝",
+     "r": "て"
+    },
+    {
+     "a": "掬",
+     "r": "すく"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000364",
+   "pid": "aozora",
+   "pages": [],
+   "no": 362,
+   "maki": "二町谷小景",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "うしろより西日射せればあな寂し金色に光る漁師のあたま",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "射",
+     "r": "さ"
+    },
+    {
+     "a": "金色",
+     "r": "こんじき"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000365",
+   "pid": "aozora",
+   "pages": [],
+   "no": 363,
+   "maki": "二町谷小景",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "駿河なる不二の高嶺をふり仰ぎ大きなる網をさと拡げたり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "不二",
+     "r": "ふじ"
+    },
+    {
+     "a": "高嶺",
+     "r": "たかね"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000366",
+   "pid": "aozora",
+   "pages": [],
+   "no": 364,
+   "maki": "二町谷小景",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "落つ日の照りきはまれば何がなし小鳥岬をいま放れたり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "落",
+     "r": "いり"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000367",
+   "pid": "aozora",
+   "pages": [],
+   "no": 365,
+   "maki": "二町谷小景",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "赤き日に真向に飛ぶ鳥のはね遂に飛び入り行方知らずも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "真向",
+     "r": "まつかう"
+    },
+    {
+     "a": "行方",
+     "r": "ゆくへ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000368",
+   "pid": "aozora",
+   "pages": [],
+   "no": 366,
+   "maki": "二町谷小景",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "海の波光り重なり日もすがら光り重なりまた暮れにけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000369",
+   "pid": "aozora",
+   "pages": [],
+   "no": 367,
+   "maki": "山中秋景",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "木々の上を光り消えゆく鳥のかず遠空の中にあつまるあはれ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "上",
+     "r": "へ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000370",
+   "pid": "aozora",
+   "pages": [],
+   "no": 368,
+   "maki": "山中秋景",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "山峡に橋を架けむと耀くは行基菩薩か金色光に",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "山峡",
+     "r": "やまかひ"
+    },
+    {
+     "a": "金色光",
+     "r": "こんじきくわう"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000371",
+   "pid": "aozora",
+   "pages": [],
+   "no": 369,
+   "maki": "山中秋景",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "谷底に人間のごと恋しきは彼金柑の光るなりけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "彼",
+     "r": "かれ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000372",
+   "pid": "aozora",
+   "pages": [],
+   "no": 370,
+   "maki": "山中秋景",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "二方に光りかがやく秋の海その二方に白帆ゆく見ゆ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "二方",
+     "r": "ふたかた"
+    },
+    {
+     "a": "二方",
+     "r": "ふたかた"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000373",
+   "pid": "aozora",
+   "pages": [],
+   "no": 371,
+   "maki": "山中秋景",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "煙立つ紅葉の峡にしろがねの入江ひらけて舟はしるなり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "紅葉",
+     "r": "もみぢ"
+    },
+    {
+     "a": "峡",
+     "r": "かひ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000374",
+   "pid": "aozora",
+   "pages": [],
+   "no": 372,
+   "maki": "山中秋景",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "麗うらと日照りさしそふ秋山に心ぼそくも立つる煙か",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "麗",
+     "r": "うら"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000375",
+   "pid": "aozora",
+   "pages": [],
+   "no": 373,
+   "maki": "山中秋景",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "帆をかけて心ぼそげにゆく舟の一路かなしも麗らかなれば",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "一路",
+     "r": "いちろ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000376",
+   "pid": "aozora",
+   "pages": [],
+   "no": 374,
+   "maki": "山中秋景",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "金の星このもかのもの岨をゆく彼らは枯草負ひたる童",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "岨",
+     "r": "そば"
+    },
+    {
+     "a": "童",
+     "r": "わらべ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000377",
+   "pid": "aozora",
+   "pages": [],
+   "no": 375,
+   "maki": "山中秋景",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "松並木中に一点寂しきは金の茶店の甘酒の釜",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "金",
+     "r": "きん"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000378",
+   "pid": "aozora",
+   "pages": [],
+   "no": 376,
+   "maki": "山中秋景",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "大きなる赤き円日海にありすなはち海へと下りけるかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "円日",
+     "r": "ゑんじつ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000379",
+   "pid": "aozora",
+   "pages": [],
+   "no": 377,
+   "maki": "山中秋景",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "引橋の茶屋のほとりをいそぐときほとほと秋は過ぎぬと思ひき",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000380",
+   "pid": "aozora",
+   "pages": [],
+   "no": 378,
+   "maki": "漁村晩秋",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あなあはれ日の消えがたの水ぎはに枯木一本赤き夕ぐれ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000381",
+   "pid": "aozora",
+   "pages": [],
+   "no": 379,
+   "maki": "漁村晩秋",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "かくのごとき秋の寂しさわれ愛す枯木一木幽かに光る",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "一木",
+     "r": "いちぼく"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000382",
+   "pid": "aozora",
+   "pages": [],
+   "no": 380,
+   "maki": "漁村晩秋",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "那辺より出で来し我ぞ行く我ぞ頭幽かにかがやき光り",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "那辺",
+     "r": "なへん"
+    },
+    {
+     "a": "幽",
+     "r": "かす"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000383",
+   "pid": "aozora",
+   "pages": [],
+   "no": 381,
+   "maki": "漁村晩秋",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "秋の色いまか極まる声もなき人豆のごと橋わたる見ゆ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000384",
+   "pid": "aozora",
+   "pages": [],
+   "no": 382,
+   "maki": "漁村晩秋",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "人はいま一番高き木のうへに鴉鳴く見て橋わたりたり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "一番",
+     "r": "いちばん"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000385",
+   "pid": "aozora",
+   "pages": [],
+   "no": 383,
+   "maki": "漁村晩秋",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "一心に遊ぶ子どもの声すなり赤きとまやの秋の夕ぐれ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000386",
+   "pid": "aozora",
+   "pages": [],
+   "no": 384,
+   "maki": "漁村晩秋",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "藁屋ありはねつるべ動く水の辺の田圃の赤き秋の夕ぐれ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "辺",
+     "r": "べ"
+    },
+    {
+     "a": "田圃",
+     "r": "たんぼ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000387",
+   "pid": "aozora",
+   "pages": [],
+   "no": 385,
+   "maki": "漁村晩秋",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "けつけつと鳴くは何鳥あかあかと葦間の夕日消えてけらずや",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "葦間",
+     "r": "あしま"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000388",
+   "pid": "aozora",
+   "pages": [],
+   "no": 386,
+   "maki": "漁村晩秋",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "金の星ひとつ消えゆく思なり童子幽かに御寺に入る",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "入",
+     "r": "はい"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000389",
+   "pid": "aozora",
+   "pages": [],
+   "no": 387,
+   "maki": "油壺晩景",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "油壺から諸磯見ればまんまろな赤い夕日がいま落つるとこ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "諸磯",
+     "r": "もろいそ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000390",
+   "pid": "aozora",
+   "pages": [],
+   "no": 388,
+   "maki": "油壺晩景",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夕焼小焼大風車の上をゆく雁が一列鴉が三羽",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "大風車",
+     "r": "おほかざぐるま"
+    },
+    {
+     "a": "雁",
+     "r": "がん"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000391",
+   "pid": "aozora",
+   "pages": [],
+   "no": 389,
+   "maki": "油壺晩景",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "後の雁が先になりたりあなあはれ赤い円日岬にかかり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "後",
+     "r": "あと"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000392",
+   "pid": "aozora",
+   "pages": [],
+   "no": 390,
+   "maki": "油壺晩景",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "赤々と夕日廻れば一またぎ向うの小山を人跨ぐ見ゆ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "跨",
+     "r": "また"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000393",
+   "pid": "aozora",
+   "pages": [],
+   "no": 391,
+   "maki": "油壺晩景",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "油壺しんととろりとして深ししんととろりと底から光り",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000394",
+   "pid": "aozora",
+   "pages": [],
+   "no": 392,
+   "maki": "種蒔",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "金色の三角畑にしみじみと人参の種蒔けるなりけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "金色",
+     "r": "こんじき"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000395",
+   "pid": "aozora",
+   "pages": [],
+   "no": 393,
+   "maki": "種蒔",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "巡礼と野の種蒔人となにごとか金色の陽に物言へりけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "種蒔人",
+     "r": "たねまき"
+    },
+    {
+     "a": "金色",
+     "r": "こんじき"
+    },
+    {
+     "a": "陽",
+     "r": "ひ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000396",
+   "pid": "aozora",
+   "pages": [],
+   "no": 394,
+   "maki": "種蒔",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ひさかたの金色光の照るところ種蒔人三人背をかがめたり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "金色光",
+     "r": "こんじきくわう"
+    },
+    {
+     "a": "種蒔人",
+     "r": "たねまき"
+    },
+    {
+     "a": "三人",
+     "r": "さんにん"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000397",
+   "pid": "aozora",
+   "pages": [],
+   "no": 395,
+   "maki": "種蒔",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "巡礼がほのかなる言云ひしかば種蒔人三人背をかがめたり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "言",
+     "r": "こと"
+    },
+    {
+     "a": "種蒔人",
+     "r": "たねまき"
+    },
+    {
+     "a": "三人",
+     "r": "さんにん"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000398",
+   "pid": "aozora",
+   "pages": [],
+   "no": 396,
+   "maki": "種蒔",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "虔ましきミレエが画に似る夕あかり種蒔人そろうて身をかがめたり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "虔",
+     "r": "つつ"
+    },
+    {
+     "a": "画",
+     "r": "ゑ"
+    },
+    {
+     "a": "種蒔人",
+     "r": "たねまき"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000399",
+   "pid": "aozora",
+   "pages": [],
+   "no": 397,
+   "maki": "その一　巡礼",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "照りかへる金柑の木がただひと木庭にいつぱいに日をこぼし居り",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000400",
+   "pid": "aozora",
+   "pages": [],
+   "no": 398,
+   "maki": "その一　巡礼",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "はるばると金柑の木にたどりつき巡礼草鞋をはきかへにけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "草鞋",
+     "r": "わらぢ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000401",
+   "pid": "aozora",
+   "pages": [],
+   "no": 399,
+   "maki": "その一　巡礼",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "巡礼が金柑の木をふりあふぐ熟れたるかもよ梢の金柑",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "熟",
+     "r": "う"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000402",
+   "pid": "aozora",
+   "pages": [],
+   "no": 400,
+   "maki": "その一　巡礼",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "かくなれば金柑の木も仏なり忝じけなやな実が照りこぼるる",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "仏",
+     "r": "ほとけ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000403",
+   "pid": "aozora",
+   "pages": [],
+   "no": 401,
+   "maki": "その一　巡礼",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "かうかうと金柑の木の照るところ巡礼の子はひとりなりけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000404",
+   "pid": "aozora",
+   "pages": [],
+   "no": 402,
+   "maki": "その一　巡礼",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "照りかへる金柑の木のかげを出で巡礼すなはち鈴ふりにけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000405",
+   "pid": "aozora",
+   "pages": [],
+   "no": 403,
+   "maki": "その二　農人",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "まかがやく金柑の木の蔭に立ち黒き土くれ人掘りかへす",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000406",
+   "pid": "aozora",
+   "pages": [],
+   "no": 404,
+   "maki": "その二　農人",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "人ふたり光りよろめく金柑の金色の木の根をうちかへす",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "金色",
+     "r": "こんじき"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000407",
+   "pid": "aozora",
+   "pages": [],
+   "no": 405,
+   "maki": "その二　農人",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "さくさくと大判小判の音すなれ金柑の木の根かたを掘れば",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000408",
+   "pid": "aozora",
+   "pages": [],
+   "no": 406,
+   "maki": "その二　農人",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "この畑の金柑のかげで云ふことをよくきいてくれそれなる娘",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000409",
+   "pid": "aozora",
+   "pages": [],
+   "no": 407,
+   "maki": "その三　秋風",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "かうかうと今ぞこの世のものならぬ金柑の木に秋風ぞ吹く",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000410",
+   "pid": "aozora",
+   "pages": [],
+   "no": 408,
+   "maki": "その三　秋風",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "吹く風はせちに心をかきむしる人間界のわれならなくに",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000411",
+   "pid": "aozora",
+   "pages": [],
+   "no": 409,
+   "maki": "その三　秋風",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "いつしかに金柑の木と身をなして吹く秋風に驚くわれは",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000412",
+   "pid": "aozora",
+   "pages": [],
+   "no": 410,
+   "maki": "その四　静坐抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夕されば閻浮檀金の木の光またかうかうとよろめきにけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "閻浮檀金",
+     "r": "えんぶだごん"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000413",
+   "pid": "aozora",
+   "pages": [],
+   "no": 411,
+   "maki": "その四　静坐抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ここに来て梁塵秘抄を読むときは金色光のさす心地する",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "金色光",
+     "r": "こんじきくわう"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000414",
+   "pid": "aozora",
+   "pages": [],
+   "no": 412,
+   "maki": "遠樹抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "西方に金の遠樹のただふたつ深くかがやく何といふ木ぞ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "遠樹",
+     "r": "ゑんじゆ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000415",
+   "pid": "aozora",
+   "pages": [],
+   "no": 413,
+   "maki": "遠樹抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "かうかうと金の射光の二方に射す野つ原に木の二本見ゆ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "二方",
+     "r": "ふたかた"
+    },
+    {
+     "a": "原",
+     "r": "ぱら"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000416",
+   "pid": "aozora",
+   "pages": [],
+   "no": 414,
+   "maki": "遠樹抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夕されば金の煙の立つごとく木はかうかうとよろめきにけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000417",
+   "pid": "aozora",
+   "pages": [],
+   "no": 415,
+   "maki": "遠樹抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "金色の木をかうかうと見はるかすこれは枯野の草刈り男",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000418",
+   "pid": "aozora",
+   "pages": [],
+   "no": 416,
+   "maki": "遠樹抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "金色のかの木のかげに照りかへり動くものあり人にはあらじか",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000419",
+   "pid": "aozora",
+   "pages": [],
+   "no": 417,
+   "maki": "遠樹抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "虔ましき金の歩みやつづくらむ親鸞上人野を行かす見ゆ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "虔",
+     "r": "つつ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000420",
+   "pid": "aozora",
+   "pages": [],
+   "no": 418,
+   "maki": "遠樹抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "樹はまさしく千手観音菩薩なり西金色の秋の夕ぐれ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000421",
+   "pid": "aozora",
+   "pages": [],
+   "no": 419,
+   "maki": "遠樹抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "かうかうと風の吹きしく夕ぐれは金色の木木もあはれなるかな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000422",
+   "pid": "aozora",
+   "pages": [],
+   "no": 420,
+   "maki": "遠樹抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "見るからに秋のあはれに吹きしくは金色の木の嵐なりけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000423",
+   "pid": "aozora",
+   "pages": [],
+   "no": 421,
+   "maki": "遠樹抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "こなた向き木々のかなしくいたぶるは金色の風の吹けばなりけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000424",
+   "pid": "aozora",
+   "pages": [],
+   "no": 422,
+   "maki": "遠樹抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "なほしばし我を忘れて金色の木々のかなたを飛ぶよしもがな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000425",
+   "pid": "aozora",
+   "pages": [],
+   "no": 423,
+   "maki": "閻魔の反射",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ライ麦の畑といはず崖といはず落日いつぱいに滴る赤さ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "落日",
+     "r": "いりひ"
+    },
+    {
+     "a": "滴",
+     "r": "したた"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000426",
+   "pid": "aozora",
+   "pages": [],
+   "no": 424,
+   "maki": "閻魔の反射",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "枯林炎々たれども枯林なにかしら寂しかの枯林",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000427",
+   "pid": "aozora",
+   "pages": [],
+   "no": 425,
+   "maki": "閻魔の反射",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "崖下のかの狂人の一軒家赤くかがやきかがやきやまず",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "崖下",
+     "r": "がけした"
+    },
+    {
+     "a": "狂人",
+     "r": "きちがひ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000428",
+   "pid": "aozora",
+   "pages": [],
+   "no": 426,
+   "maki": "閻魔の反射",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ライ麦の青き縞目の縦横に赤々し冬の日の沁みてける",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "縞目",
+     "r": "しまめ"
+    },
+    {
+     "a": "縦横",
+     "r": "たてよこ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000429",
+   "pid": "aozora",
+   "pages": [],
+   "no": 427,
+   "maki": "閻魔の反射",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "赤き日は人形のごとく鍬をうつ悲しき男を照らしつるかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000430",
+   "pid": "aozora",
+   "pages": [],
+   "no": 428,
+   "maki": "閻魔の反射",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "赤き日にかんかんとうつ鉦の音冬の枯野にうつ鉦の音",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "鉦",
+     "r": "かね"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000431",
+   "pid": "aozora",
+   "pages": [],
+   "no": 429,
+   "maki": "閻魔の反射",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "赤き日に棕梠の木三本照り寂しそこの藁屋にうつ鉦の音",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "藁屋",
+     "r": "わらや"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000432",
+   "pid": "aozora",
+   "pages": [],
+   "no": 430,
+   "maki": "閻魔の反射",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "鍬打て、日は三角畑のお茶の芽に赤く反射しかつ照りやまず",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "三角畑",
+     "r": "さんかくばたけ"
+    },
+    {
+     "a": "反射",
+     "r": "てりかへ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000433",
+   "pid": "aozora",
+   "pages": [],
+   "no": 431,
+   "maki": "閻魔の反射",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "赤き日に黒き刺葉の沁み揺るる柊の根を人うちかへす",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "刺葉",
+     "r": "はりは"
+    },
+    {
+     "a": "柊",
+     "r": "ひいらぎ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000434",
+   "pid": "aozora",
+   "pages": [],
+   "no": 432,
+   "maki": "閻魔の反射",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "大きなる閻魔の朱面くわつと照りかがやく寂しき寂しき畑",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "朱面",
+     "r": "しゆめん"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000435",
+   "pid": "aozora",
+   "pages": [],
+   "no": 433,
+   "maki": "閻魔の反射",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "畑打てば閻魔大王光るなり枯木二三本に鴉ちらばり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000436",
+   "pid": "aozora",
+   "pages": [],
+   "no": 434,
+   "maki": "閻魔の反射",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "鍬下ろせばうしろ向かるる冬の畑そこに真赤な閻魔の反射",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "真赤",
+     "r": "まつか"
+    },
+    {
+     "a": "反射",
+     "r": "はんしや"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000437",
+   "pid": "aozora",
+   "pages": [],
+   "no": 435,
+   "maki": "閻魔の反射",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "馬頭観世音の前を通れば甘薯畑盲人こち向け日が真赤ぞよ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "甘薯畑",
+     "r": "いもばたけ"
+    },
+    {
+     "a": "盲人",
+     "r": "めくら"
+    },
+    {
+     "a": "真赤",
+     "r": "まつか"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000438",
+   "pid": "aozora",
+   "pages": [],
+   "no": 436,
+   "maki": "閻魔の反射",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "盲人よ盲人一心に何か聴きすましあかあかし顔を日に向けてゐる",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "盲人",
+     "r": "めくら"
+    },
+    {
+     "a": "盲人",
+     "r": "めくら"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000439",
+   "pid": "aozora",
+   "pages": [],
+   "no": 437,
+   "maki": "閻魔の反射",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "悲しき悲しき閻魔の反射畑中に日が明け日が暮れ鍬うちやまず",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000440",
+   "pid": "aozora",
+   "pages": [],
+   "no": 438,
+   "maki": "畑打ち人形",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "赤き日に畑打人形が畑をうつ畑打人形は悲しき夫婦",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "夫婦",
+     "r": "めをと"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000441",
+   "pid": "aozora",
+   "pages": [],
+   "no": 439,
+   "maki": "畑打ち人形",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "人間のこれの夫婦はいと寂し人まぜもせず畑うちかへす",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "夫婦",
+     "r": "めをと"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000442",
+   "pid": "aozora",
+   "pages": [],
+   "no": 440,
+   "maki": "畑打ち人形",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "人間のこれの夫婦はいと寂したんだ黙つて畑うちかへす",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "夫婦",
+     "r": "めをと"
+    },
+    {
+     "a": "黙",
+     "r": "だま"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000443",
+   "pid": "aozora",
+   "pages": [],
+   "no": 441,
+   "maki": "畑打ち人形",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "人間のこれの夫婦はいと寂し時に尻向け畑うちかへす",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "夫婦",
+     "r": "めをと"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000444",
+   "pid": "aozora",
+   "pages": [],
+   "no": 442,
+   "maki": "畑打ち人形",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "涙こぼし一人うしろを向いたれば一人が真赤な日にうちかへす",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "一人",
+     "r": "ひとり"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000445",
+   "pid": "aozora",
+   "pages": [],
+   "no": 443,
+   "maki": "畑打ち人形",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "時折りに夫婦向きあひ畑をうつ拝む如くに悲しき人形",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "夫婦",
+     "r": "めをと"
+    },
+    {
+     "a": "拝",
+     "r": "をが"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000446",
+   "pid": "aozora",
+   "pages": [],
+   "no": 444,
+   "maki": "畑打ち人形",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "大日を中にころがし右左畑打人形は畑うちかへす",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "大日",
+     "r": "だいにち"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000447",
+   "pid": "aozora",
+   "pages": [],
+   "no": 445,
+   "maki": "曼珠沙華抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "秋の野にあまりに真赤な曼珠沙華その曼珠沙華取りて捨ちよやれ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000448",
+   "pid": "aozora",
+   "pages": [],
+   "no": 446,
+   "maki": "曼珠沙華抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "二人見て来むぞ真赤な曼珠沙華松の小蔭にちよと入りて来むぞ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000449",
+   "pid": "aozora",
+   "pages": [],
+   "no": 447,
+   "maki": "曼珠沙華抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "こち向け牝牛供養の石が立てり曼珠沙華の花赤き路ばた",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000450",
+   "pid": "aozora",
+   "pages": [],
+   "no": 448,
+   "maki": "耕田",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "曼珠沙華の花あかあかと咲くところ牛と人とが田を鋤きてゐる",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000451",
+   "pid": "aozora",
+   "pages": [],
+   "no": 449,
+   "maki": "秋深し",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "童らが遊ばずなりて曼珠沙華ますます赤く動かであるも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000452",
+   "pid": "aozora",
+   "pages": [],
+   "no": 450,
+   "maki": "田舎道",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "大きなる大きなる赤き日の玉が一番赤くころがれり冬",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000453",
+   "pid": "aozora",
+   "pages": [],
+   "no": 451,
+   "maki": "田舎道",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "田舎道のぼりつめたるかなたより馬車あかあかとかがやきて来も",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "田舎道",
+     "r": "ゐなかみち"
+    },
+    {
+     "a": "来",
+     "r": "く"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000454",
+   "pid": "aozora",
+   "pages": [],
+   "no": 452,
+   "maki": "田舎道",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "燃えあがる落日の欅あちこちに天を焦がすこそ苦しかりけれ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "落日",
+     "r": "いりひ"
+    },
+    {
+     "a": "欅",
+     "r": "けやき"
+    },
+    {
+     "a": "天",
+     "r": "てん"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000455",
+   "pid": "aozora",
+   "pages": [],
+   "no": 453,
+   "maki": "田舎道",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "藁小屋と赤くかがやくなだら坂日をいつぱいに浴びて親しも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000456",
+   "pid": "aozora",
+   "pages": [],
+   "no": 454,
+   "maki": "田舎道",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "路のべに遊ぶ童がかぶろ髪光輪はなつこぼるるばかり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "童",
+     "r": "わらべ"
+    },
+    {
+     "a": "光輪",
+     "r": "くわうりん"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000457",
+   "pid": "aozora",
+   "pages": [],
+   "no": 455,
+   "maki": "田舎道",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "馬頭観世音立てるところに馬居りて下を見て居り冬の光に",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000458",
+   "pid": "aozora",
+   "pages": [],
+   "no": 456,
+   "maki": "田舎道",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "金色の赤馬の尻毛のふつさりと垂れて静けき夕なりけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "金色",
+     "r": "こんじき"
+    },
+    {
+     "a": "赤馬",
+     "r": "あか"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000459",
+   "pid": "aozora",
+   "pages": [],
+   "no": 457,
+   "maki": "人参の髯",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夕されば光こまかにふりこぼす人参の髯もあはれなりけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000460",
+   "pid": "aozora",
+   "pages": [],
+   "no": 458,
+   "maki": "木がらし",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "はろばろに枯木わくれば甘藷畑おつ魂げるやうな日が落ちて居る",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "甘藷畑",
+     "r": "いもばたけ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000461",
+   "pid": "aozora",
+   "pages": [],
+   "no": 459,
+   "maki": "木がらし",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "目も遥に嵐吹きしく枯野原空に落日が半分紅く",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "遥",
+     "r": "はる"
+    },
+    {
+     "a": "落日",
+     "r": "いりひ"
+    },
+    {
+     "a": "紅",
+     "r": "あか"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000462",
+   "pid": "aozora",
+   "pages": [],
+   "no": 460,
+   "maki": "木がらし",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "人ひとりあらはれわたる土の橋橋の両岸ただ冬の風",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "両岸",
+     "r": "りやうがん"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000463",
+   "pid": "aozora",
+   "pages": [],
+   "no": 461,
+   "maki": "木がらし",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "絹帽吹き飛ばしたり冬の風落日真赤な一本橋に",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "絹帽",
+     "r": "シルクハツト"
+    },
+    {
+     "a": "落日",
+     "r": "いりひ"
+    },
+    {
+     "a": "真赤",
+     "r": "まつか"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000464",
+   "pid": "aozora",
+   "pages": [],
+   "no": 462,
+   "maki": "木がらし",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "転がつてゆく絹帽を追つかける紳士老いたり野は冬の風",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "転",
+     "r": "ころ"
+    },
+    {
+     "a": "絹帽",
+     "r": "シルクハツト"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000465",
+   "pid": "aozora",
+   "pages": [],
+   "no": 463,
+   "maki": "木がらし",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "数珠つながり赤い閻魔をぐるぐると廻る童を吹く冬の風",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000466",
+   "pid": "aozora",
+   "pages": [],
+   "no": 464,
+   "maki": "木がらし",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "木がらしに白髪かきたれ来る媼負へる赤子は石の如しも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "白髪",
+     "r": "しらが"
+    },
+    {
+     "a": "来",
+     "r": "く"
+    },
+    {
+     "a": "媼",
+     "r": "おうな"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000467",
+   "pid": "aozora",
+   "pages": [],
+   "no": 465,
+   "maki": "大椿抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "大きなる椿の樹ありあかあかとひとつも花を落さざりけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000468",
+   "pid": "aozora",
+   "pages": [],
+   "no": 466,
+   "maki": "大椿抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "花あまりにここだつけたる椿の枝ひきずるばかりに垂れにけるかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000469",
+   "pid": "aozora",
+   "pages": [],
+   "no": 467,
+   "maki": "大椿抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "山椿照りおそろしき真昼時小僧黙つて坂下りて来も",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "黙",
+     "r": "だま"
+    },
+    {
+     "a": "下",
+     "r": "お"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000470",
+   "pid": "aozora",
+   "pages": [],
+   "no": 468,
+   "maki": "大椿抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "積藁の上に大樹の山椿丹念に落す花真紅なり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "真紅",
+     "r": "まつか"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000471",
+   "pid": "aozora",
+   "pages": [],
+   "no": 469,
+   "maki": "大椿抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ほつたりと思ひあまれば地に紅く落ちて音する椿なりけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "紅",
+     "r": "あか"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000472",
+   "pid": "aozora",
+   "pages": [],
+   "no": 470,
+   "maki": "大椿抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "大きなる椿ほたりと落ちしなり屹驚するな東京の子供",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "屹驚",
+     "r": "びつくり"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000473",
+   "pid": "aozora",
+   "pages": [],
+   "no": 471,
+   "maki": "大椿抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "大きなる櫓櫂かつぐと大きなる櫓櫂椿につかえけるかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000474",
+   "pid": "aozora",
+   "pages": [],
+   "no": 472,
+   "maki": "風吹く椿",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "積藁にこぼれ落つる椿火のごとしすなはち畑を風走るなり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000475",
+   "pid": "aozora",
+   "pages": [],
+   "no": 473,
+   "maki": "風吹く椿",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "風はしる紅き椿をひとゆすり枯木十二三本からからゆすり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000476",
+   "pid": "aozora",
+   "pages": [],
+   "no": 474,
+   "maki": "風吹く椿",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "風はしる目ざめし如くあかあかと椿一時に耀く紅く",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000477",
+   "pid": "aozora",
+   "pages": [],
+   "no": 475,
+   "maki": "風吹く椿",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "畑中に紅く耀く一本椿椿飛び越え風はしるなり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000478",
+   "pid": "aozora",
+   "pages": [],
+   "no": 476,
+   "maki": "風吹く椿",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "枯枝の鴉吹き飛ばし風はしる椿耀く耀く紅く",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000479",
+   "pid": "aozora",
+   "pages": [],
+   "no": 477,
+   "maki": "風吹く椿",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "カンヷスをひつくりかへし風はしる椿耀く耀く紅く",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000480",
+   "pid": "aozora",
+   "pages": [],
+   "no": 478,
+   "maki": "風吹く椿",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "耀く椿前にわが立つ一本椿風吹け風吹け耀く椿",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000481",
+   "pid": "aozora",
+   "pages": [],
+   "no": 479,
+   "maki": "赤き鳥居",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "冬の日を正面に受けてやや寒くまかがやく赤き鳥居小さしも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "正面",
+     "r": "まとも"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000482",
+   "pid": "aozora",
+   "pages": [],
+   "no": 480,
+   "maki": "赤き鳥居",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ここ過ぎて幾度涙落しけむ一尺の赤き鳥居の光",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "幾度",
+     "r": "いくたび"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000483",
+   "pid": "aozora",
+   "pages": [],
+   "no": 481,
+   "maki": "赤き鳥居",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "前うしろに百姓種蒔く畑中の赤き鳥居のしみらの耀き",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000484",
+   "pid": "aozora",
+   "pages": [],
+   "no": 482,
+   "maki": "赤き鳥居",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "枯木一本赤き鳥居と石ふたつこれぞ陰陽神のましますところ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "一本",
+     "r": "いつぽん"
+    },
+    {
+     "a": "陰陽神",
+     "r": "おんみやうじん"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000485",
+   "pid": "aozora",
+   "pages": [],
+   "no": 483,
+   "maki": "赤き鳥居",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夕さりくれば一人もあらずなりにけり赤き鳥居の周囲の種蒔",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "一人",
+     "r": "いちにん"
+    },
+    {
+     "a": "周囲",
+     "r": "まはり"
+    },
+    {
+     "a": "種蒔",
+     "r": "たねまき"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000486",
+   "pid": "aozora",
+   "pages": [],
+   "no": 484,
+   "maki": "西日抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "見桃寺冬さりくればあかあかと日にけに寂し夕焼けにつつ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000487",
+   "pid": "aozora",
+   "pages": [],
+   "no": 485,
+   "maki": "西日抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "明り障子冬の西日をいつぱいにうけて真赤になりたりあはれ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "真赤",
+     "r": "まつか"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000488",
+   "pid": "aozora",
+   "pages": [],
+   "no": 486,
+   "maki": "西日抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "この庵に三月五月棲み馴れていよよ親しむ西日の反射",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "庵",
+     "r": "いほ"
+    },
+    {
+     "a": "三月",
+     "r": "みつき"
+    },
+    {
+     "a": "五月",
+     "r": "いつつき"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000489",
+   "pid": "aozora",
+   "pages": [],
+   "no": 487,
+   "maki": "西日抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "夕焼空蘇鉄の上にいと赤し蘇鉄の下に地もまた赤し",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000490",
+   "pid": "aozora",
+   "pages": [],
+   "no": 488,
+   "maki": "西日抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あかあかと冬の蘇鉄にはぢく日の飛沫かなし地に沁みにつつ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "飛沫",
+     "r": "とばちり"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000491",
+   "pid": "aozora",
+   "pages": [],
+   "no": 489,
+   "maki": "西日抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "吾等また黙つて蘇鉄見て居たりしつくりと今は落ちつきにけむ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "黙",
+     "r": "だま"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000492",
+   "pid": "aozora",
+   "pages": [],
+   "no": 490,
+   "maki": "西日抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "桃の御所の庭の西日に下りて吾が巡礼の子にものいふこころ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "吾",
+     "r": "あ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000493",
+   "pid": "aozora",
+   "pages": [],
+   "no": 491,
+   "maki": "西日抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ゆづり葉に西日射すときゆづり葉のかげに巡礼鉦うちにけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000494",
+   "pid": "aozora",
+   "pages": [],
+   "no": 492,
+   "maki": "西日抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "赤々と碁盤の角に日はさして五目並べは吾が負けにけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "碁盤",
+     "r": "ごばん"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000495",
+   "pid": "aozora",
+   "pages": [],
+   "no": 493,
+   "maki": "隣の厨",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "日は暮れぬ鰯なほ干す旃陀羅が暗き垣根の白菊の花",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "旃陀羅",
+     "r": "せんだら"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000496",
+   "pid": "aozora",
+   "pages": [],
+   "no": 494,
+   "maki": "隣の厨",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "寂しさに秋成が書読みさして庭に出でたり白菊の花",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "書",
+     "r": "ふみ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000497",
+   "pid": "aozora",
+   "pages": [],
+   "no": 495,
+   "maki": "隣の厨",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ゆくりなく闇に大きく菊動くと見れば向うに火の燃えあがる",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "燃",
+     "r": "も"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000498",
+   "pid": "aozora",
+   "pages": [],
+   "no": 496,
+   "maki": "隣の厨",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "火の中に不動明王おはすなり焔えんえん今燃えあがる",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000499",
+   "pid": "aozora",
+   "pages": [],
+   "no": 497,
+   "maki": "隣の厨",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "火の中に不動明王おはすなりあなかたじけなあなかたじけな",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000500",
+   "pid": "aozora",
+   "pages": [],
+   "no": 498,
+   "maki": "隣の厨",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "櫓をかつぎ漁人竈の前をゆくその櫓たちまち火に照る赤く",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "竈",
+     "r": "かまど"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000501",
+   "pid": "aozora",
+   "pages": [],
+   "no": 499,
+   "maki": "隣の厨",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "火の燃ゆればあはれなること限りなしあかあかとをどる厨の器",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "器",
+     "r": "うつは"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000502",
+   "pid": "aozora",
+   "pages": [],
+   "no": 500,
+   "maki": "隣の厨",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "円ら眼の童子かまどの前に居りあなひもじさよ焔の躍り",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "円",
+     "r": "つぶ"
+    },
+    {
+     "a": "躍",
+     "r": "をど"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000503",
+   "pid": "aozora",
+   "pages": [],
+   "no": 501,
+   "maki": "隣の厨",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "寂しきは鍋にはみ出す魚の尾厨の火光白菊の花",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "魚",
+     "r": "さかな"
+    },
+    {
+     "a": "火光",
+     "r": "あかり"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000504",
+   "pid": "aozora",
+   "pages": [],
+   "no": 502,
+   "maki": "隣の厨",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "鍋の尻赤くゆらめくただ楽し漁村のよき夜安らかなれよ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000505",
+   "pid": "aozora",
+   "pages": [],
+   "no": 503,
+   "maki": "渚の西日",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "おほわだつみのまへにあそべる幼などち遊び足らずてけふも暮れにけり",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000506",
+   "pid": "aozora",
+   "pages": [],
+   "no": 504,
+   "maki": "渚の西日",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "赤き日に彼ら無心に遊べども寂しかりけり童があたま",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "童",
+     "r": "わらべ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000507",
+   "pid": "aozora",
+   "pages": [],
+   "no": 505,
+   "maki": "渚の西日",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "大きなる赤き日輪海にあれど汝が父いまだ帰らざりけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "汝",
+     "r": "な"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000508",
+   "pid": "aozora",
+   "pages": [],
+   "no": 506,
+   "maki": "渚の西日",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "現身の子ども喧嘩をしてゐたり一人打たれて泣けばかなしも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "現身",
+     "r": "うつそみ"
+    },
+    {
+     "a": "打",
+     "r": "ぶ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000509",
+   "pid": "aozora",
+   "pages": [],
+   "no": 507,
+   "maki": "渚の西日",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "泣きわめく子らが手を引き引きずりてその母帰る西日に赤く",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000510",
+   "pid": "aozora",
+   "pages": [],
+   "no": 508,
+   "maki": "童子抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "何事の物のあはれを感ずらむ大海の前に泣く童あり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "大海",
+     "r": "だいかい"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000511",
+   "pid": "aozora",
+   "pages": [],
+   "no": 509,
+   "maki": "童子抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "大海の前に投げ出されて夕まぐれ童子わがごとくよく泣けるかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "大海",
+     "r": "だいかい"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000512",
+   "pid": "aozora",
+   "pages": [],
+   "no": 510,
+   "maki": "童子抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ものなべて麗らならぬはなきものをなにか童の涙こぼせる",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "麗",
+     "r": "うら"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000513",
+   "pid": "aozora",
+   "pages": [],
+   "no": 511,
+   "maki": "童子抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "まんまろな朱の日輪空にありいまだいつくし童があたま",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "朱",
+     "r": "あけ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000514",
+   "pid": "aozora",
+   "pages": [],
+   "no": 512,
+   "maki": "童子抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "この泣くは仏の童子泣くたびにあたまの髪がよく光るかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000515",
+   "pid": "aozora",
+   "pages": [],
+   "no": 513,
+   "maki": "童子抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "鼕々とうねり来れども麗らなる波は童をとらへざりけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "来",
+     "r": "く"
+    },
+    {
+     "a": "麗",
+     "r": "うら"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000516",
+   "pid": "aozora",
+   "pages": [],
+   "no": 514,
+   "maki": "童子抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "麗らなれば童は泣くなりただ泣くなり大海の前に声も惜しまず",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "童",
+     "r": "わらべ"
+    },
+    {
+     "a": "大海",
+     "r": "だいかい"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000517",
+   "pid": "aozora",
+   "pages": [],
+   "no": 515,
+   "maki": "童子抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "麗らかに頭さらしてその童泣けばこの世がかなしくなるも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "麗",
+     "r": "うら"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000518",
+   "pid": "aozora",
+   "pages": [],
+   "no": 516,
+   "maki": "雪夜",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "この庵にまこと仏の坐すかと思ふけはひに雪ふりいでぬ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "庵",
+     "r": "いほ"
+    },
+    {
+     "a": "坐",
+     "r": "おは"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000519",
+   "pid": "aozora",
+   "pages": [],
+   "no": 517,
+   "maki": "雪夜",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "冬青の葉に雪のふりつむ声すなりあはれなるかも冬青の青き葉",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "冬青",
+     "r": "もち"
+    },
+    {
+     "a": "冬青",
+     "r": "もち"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000520",
+   "pid": "aozora",
+   "pages": [],
+   "no": 518,
+   "maki": "雪夜",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "寂しさに堪へて吾が聴くしら雪の牡丹雪とぞなりにけるかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000521",
+   "pid": "aozora",
+   "pages": [],
+   "no": 519,
+   "maki": "雪夜",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "澄み入りてわが身ひとつにふる雪のはては音こそなかりけるかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000522",
+   "pid": "aozora",
+   "pages": [],
+   "no": 520,
+   "maki": "雪夜",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "めづらかに人のものいふ声ぞする思ふに空も明けたるならむ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000523",
+   "pid": "aozora",
+   "pages": [],
+   "no": 521,
+   "maki": "雪夜",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "煌々と光さすかとふと思ふ法身仏といつなりにけむ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "煌々",
+     "r": "くわうくわう"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000524",
+   "pid": "aozora",
+   "pages": [],
+   "no": 522,
+   "maki": "雪夜",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "見桃寺の鶏長鳴けりはろばろとそれにこたふるはいづこの鶏ぞ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "鶏",
+     "r": "とり"
+    },
+    {
+     "a": "鶏",
+     "r": "とり"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000525",
+   "pid": "aozora",
+   "pages": [],
+   "no": 523,
+   "maki": "雪後",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "よくも青く晴れし空かな思ひきや屋根のかなたに涙おぼゆる",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000526",
+   "pid": "aozora",
+   "pages": [],
+   "no": 524,
+   "maki": "雪後",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あかつきの雪に寂しくきらめくは木々に囀る雀があたま",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000527",
+   "pid": "aozora",
+   "pages": [],
+   "no": 525,
+   "maki": "雪後",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "木の枝に雀一列ならびゐてひとつびとつにものいふあはれ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "一列",
+     "r": "ひとつら"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000528",
+   "pid": "aozora",
+   "pages": [],
+   "no": 526,
+   "maki": "雪後",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "蘇鉄の葉八方に開くこの朝明雪しみじみと滲み滴りにけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "朝明",
+     "r": "あさけ"
+    },
+    {
+     "a": "滲",
+     "r": "し"
+    },
+    {
+     "a": "滴",
+     "r": "た"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000529",
+   "pid": "aozora",
+   "pages": [],
+   "no": 527,
+   "maki": "雪後",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "冬青の木も雪をゆすれり椎の木も雪をゆすれり寂しき朝明",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "冬青",
+     "r": "もち"
+    },
+    {
+     "a": "朝明",
+     "r": "あさけ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000530",
+   "pid": "aozora",
+   "pages": [],
+   "no": 528,
+   "maki": "雪後",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "魚さげてものいふお作冬青の木の下にしまらく輝きにけれ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "魚",
+     "r": "さかな"
+    },
+    {
+     "a": "冬青",
+     "r": "もち"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000531",
+   "pid": "aozora",
+   "pages": [],
+   "no": 529,
+   "maki": "雪後",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ほそぼそと雪後の煙立つるめり赤き煙突屋根の煙突",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "雪後",
+     "r": "せつご"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000532",
+   "pid": "aozora",
+   "pages": [],
+   "no": 530,
+   "maki": "雪後",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "今は雪深くくづれてしとしとと庫裡の酢甕に滲み滴りにけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "庫裡",
+     "r": "くり"
+    },
+    {
+     "a": "酢甕",
+     "r": "すがめ"
+    },
+    {
+     "a": "滲",
+     "r": "し"
+    },
+    {
+     "a": "滴",
+     "r": "た"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000533",
+   "pid": "aozora",
+   "pages": [],
+   "no": 531,
+   "maki": "馬の灸",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "生馬の灸すゑどころ見ゆるなり光あまねき野つ原の中",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "生馬",
+     "r": "いきうま"
+    },
+    {
+     "a": "灸",
+     "r": "きう"
+    },
+    {
+     "a": "原",
+     "r": "ぱら"
+    },
+    {
+     "a": "中",
+     "r": "うち"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000534",
+   "pid": "aozora",
+   "pages": [],
+   "no": 532,
+   "maki": "馬の灸",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "馬は馬頭観世音なりはろばろに嘶き来たれば悲しきものを",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "嘶",
+     "r": "いなゝ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000535",
+   "pid": "aozora",
+   "pages": [],
+   "no": 533,
+   "maki": "馬の灸",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "馬の頭をりをり光り大人しく灸すゑられてありにけるかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "大人",
+     "r": "おとな"
+    },
+    {
+     "a": "灸",
+     "r": "きう"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000536",
+   "pid": "aozora",
+   "pages": [],
+   "no": 534,
+   "maki": "馬の灸",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "現身の馬にて在せば観世音灸すゑられてありにけるかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "現身",
+     "r": "うつしみ"
+    },
+    {
+     "a": "在",
+     "r": "ま"
+    },
+    {
+     "a": "灸",
+     "r": "きう"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000537",
+   "pid": "aozora",
+   "pages": [],
+   "no": 535,
+   "maki": "馬の灸",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "生馬の命かしこみ旃陀羅が火を点けむとす空の高きに",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "旃陀羅",
+     "r": "せんだら"
+    },
+    {
+     "a": "点",
+     "r": "つ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000538",
+   "pid": "aozora",
+   "pages": [],
+   "no": 536,
+   "maki": "馬の灸",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "あかあかと灸押しすゆる馬の腹馬はたまらず嘶きにけり",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "灸",
+     "r": "きう"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000539",
+   "pid": "aozora",
+   "pages": [],
+   "no": 537,
+   "maki": "馬の灸",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "しみじみと馬に灸をすうる時馬かはゆしと思ひけるかも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "灸",
+     "r": "やいと"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000540",
+   "pid": "aozora",
+   "pages": [],
+   "no": 538,
+   "maki": "馬の灸",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "おのれまた灸すゑられあるごとし馬のこころにいつなりにけむ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "灸",
+     "r": "やいと"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000541",
+   "pid": "aozora",
+   "pages": [],
+   "no": 539,
+   "maki": "馬の灸",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "詮ずれば馬も仏の身なれども灸すゑられて嘶けばかなしも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "詮",
+     "r": "せん"
+    },
+    {
+     "a": "仏",
+     "r": "ほとけ"
+    },
+    {
+     "a": "灸",
+     "r": "やいと"
+    },
+    {
+     "a": "嘶",
+     "r": "な"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000542",
+   "pid": "aozora",
+   "pages": [],
+   "no": 540,
+   "maki": "不尽の雪",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ひさかたの天に雪ふり不尽のやまけふ白妙となりてけるかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000543",
+   "pid": "aozora",
+   "pages": [],
+   "no": 541,
+   "maki": "不尽の雪",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "れいろうとして天にくまなきふじのやまけふしろたへとなりてけるかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000544",
+   "pid": "aozora",
+   "pages": [],
+   "no": 542,
+   "maki": "不尽の雪",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "うちいでて人の見たりけむ不尽のやまけふ白妙となりてけるかも",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000545",
+   "pid": "aozora",
+   "pages": [],
+   "no": 543,
+   "maki": "竜胆抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "かきわくるひと足ごとに竜胆の光りまたたく冬のあさあけ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "竜胆",
+     "r": "りんだう"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000546",
+   "pid": "aozora",
+   "pages": [],
+   "no": 544,
+   "maki": "竜胆抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "犬を連れてゆけばかはゆき小笹原そこにも竜胆ここにも竜胆",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "竜胆",
+     "r": "りんだう"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000547",
+   "pid": "aozora",
+   "pages": [],
+   "no": 545,
+   "maki": "竜胆抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "そこにもここにもあはれな小さい竜胆が咲いてゐる光つてまたたいてゐる",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "竜胆",
+     "r": "りんだう"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000548",
+   "pid": "aozora",
+   "pages": [],
+   "no": 546,
+   "maki": "竜胆抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "犬の眼も幽かに動く竜胆の花のいのちを見守るらしも",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "竜胆",
+     "r": "りんだう"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000549",
+   "pid": "aozora",
+   "pages": [],
+   "no": 547,
+   "maki": "竜胆抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "竜胆を久に凝視めし眼を深く心に向けつそこにも竜胆",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "久",
+     "r": "ひさ"
+    },
+    {
+     "a": "凝視",
+     "r": "みつ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000550",
+   "pid": "aozora",
+   "pages": [],
+   "no": 548,
+   "maki": "竜胆抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "竜胆が頭の中に光るなりたつたひとつの竜胆の花",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "竜胆",
+     "r": "りんだう"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000551",
+   "pid": "aozora",
+   "pages": [],
+   "no": 549,
+   "maki": "竜胆抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "麗々と足を洗へば竜胆の光りこぼるる心地こそすれ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "麗々",
+     "r": "うらうら"
+    },
+    {
+     "a": "竜胆",
+     "r": "りんだう"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000552",
+   "pid": "aozora",
+   "pages": [],
+   "no": 550,
+   "maki": "三崎遺抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "相模のや三浦三崎は誰びとも不尽を忘れて仰がぬところ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "不尽",
+     "r": "ふじ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000553",
+   "pid": "aozora",
+   "pages": [],
+   "no": 551,
+   "maki": "三崎遺抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "相模のや三浦三崎は目の前に城ヶ島とふ島あるところ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "城",
+     "r": "じやう"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000554",
+   "pid": "aozora",
+   "pages": [],
+   "no": 552,
+   "maki": "三崎遺抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "相模のや三浦三崎は大まかに恵美須三郎鯛釣るところ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000555",
+   "pid": "aozora",
+   "pages": [],
+   "no": 553,
+   "maki": "三崎遺抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "相模のや三浦三崎は蕪の絵を湯屋の廂に画けるところ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "廂",
+     "r": "ひさし"
+    },
+    {
+     "a": "画",
+     "r": "ゑが"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000556",
+   "pid": "aozora",
+   "pages": [],
+   "no": 554,
+   "maki": "三崎遺抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "相模のや三浦三崎は屁の神を赤き旗立て祭れるところ",
+   "sachu": "",
+   "poems": []
+  },
+  {
+   "id": "kirara-shu-000557",
+   "pid": "aozora",
+   "pages": [],
+   "no": 555,
+   "maki": "三崎遺抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "相模のや三浦三崎はありがたく一年あまりも吾が居しところ",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "一年",
+     "r": "ひととせ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000558",
+   "pid": "aozora",
+   "pages": [],
+   "no": 556,
+   "maki": "三崎遺抄",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "相模のや三浦三崎の事思へばけふも涙のながれながるる",
+   "sachu": "",
+   "poems": [],
+   "ruby": [
+    {
+     "a": "思",
+     "r": "おも"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000559",
+   "pid": "aozora",
+   "pages": [],
+   "no": null,
+   "maki": "雲母集余言",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "一心敬礼して此雲母集一巻を世に公にせむとするに当り、今更に覚ゆるは虔ましい懺悔の涙である。一入にまた痛ましきは切々として新なる流離の悲みである。光悦身に余りながら私はなほ自身の救ふ可らざる痴愚を感ずる。私は少くとも不純であつた。今こそ私は目醒めて茲に謙譲の筆を執る、真実は私の所念である。",
+   "sachu": "",
+   "poems": [],
+   "jo": true,
+   "ruby": [
+    {
+     "a": "新",
+     "r": "あらた"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000560",
+   "pid": "aozora",
+   "pages": [],
+   "no": null,
+   "maki": "雲母集余言",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "本集は大正二年五月より三年二月に至る、相州三浦三崎に於ける私のささやかな生活の所産である。この約九ヶ月間の田園生活は、極めて短日月であつたが、私に取つては私の一生涯中最も重要なる一転機を劃したものだと自信する。初めて心霊が甦り、新生是より創まつたのである。",
+   "sachu": "",
+   "poems": [],
+   "jo": true
+  },
+  {
+   "id": "kirara-shu-000561",
+   "pid": "aozora",
+   "pages": [],
+   "no": null,
+   "maki": "雲母集余言",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "相州の三浦三崎は三浦半島の尖端に在つて、遥かに房州の館山をのぞみ、両々相対して、而も貴重なる東京湾口を扼してゐる、風光明媚の一漁村である。気候温和にして四時南風やはらかく而も海は恍惚として常によろめいてゐる、さながら南以太利の沿岸を思はせる景勝の土地である。",
+   "sachu": "",
+   "poems": [],
+   "jo": true
+  },
+  {
+   "id": "kirara-shu-000562",
+   "pid": "aozora",
+   "pages": [],
+   "no": null,
+   "maki": "雲母集余言",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "私等の新居はこの三崎の向ヶ崎の浜にあつた。時俗呼んで今も向ヶ崎の異人館と云ふのがそれである。この家はもと長崎の領事をしてゐた老仏蘭西人がその洋妾と暫らく隠棲してゐた一構で、当時はその洋妾の所有になつてゐたのである。西洋式の庭は海に面して広く、一面に青芝が生へ、鍵形になつた石の胸壁の正面には石段があり、桟橋があり、下には一艘の短艇が波にゆられてゐた。家屋は日本風であるが海に向つて開いた玄関、廊下、翼家の欄間には流石に紅や黄の窓硝子が箝められ、庭の隅々にはまた紅い松葉菊を咲かしてあるといふ風に、如何にも異国趣味の瀟洒な住宅であつた。海は又どの室からも見えた。而して前には城ヶ島の緑が横たはり、通り矢とその間の五丁にも足らぬ海峡を小蒸汽が来、渡海船が通り、余多の漁舟が漕ぎつれて行く、而して遠くは煙霞の間に房州の山をのぞみ、欧洲航路の汽船軍艦はいつも煙を曳いてこの眺望の中を消えて行つたなど、全く明快な近代劇の舞台面であつた。",
+   "sachu": "",
+   "poems": [],
+   "jo": true,
+   "ruby": [
+    {
+     "a": "鍵形",
+     "r": "かぎなり"
+    },
+    {
+     "a": "短艇",
+     "r": "ボート"
+    },
+    {
+     "a": "翼家",
+     "r": "はなれ"
+    },
+    {
+     "a": "箝",
+     "r": "は"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000563",
+   "pid": "aozora",
+   "pages": [],
+   "no": null,
+   "maki": "雲母集余言",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "此処に私の一家は可なり贅沢な、然し寂しい生活をした。",
+   "sachu": "",
+   "poems": [],
+   "jo": true,
+   "ruby": [
+    {
+     "a": "此処",
+     "r": "こゝ"
+    }
+   ]
+  },
+  {
+   "id": "kirara-shu-000564",
+   "pid": "aozora",
+   "pages": [],
+   "no": null,
+   "maki": "雲母集余言",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "向ヶ崎の異人館生活は五月より十月迄引続いた。その間、父と弟とは遊び半分、殆ど夢見るやうな気持で、場所の有利なのを幸に、土地の漁船より新鮮な魚類を買ひ占めて東京の魚河岸に送る商買をはじめた。私は全く与らなかつたけれども、時折短艇に鮪や鯖やを載せて町の市場迄届けに行つたりした。夏帽子にホワイトシヤツをつけ、黒い大きなネクタイをふつさりと結んだこの魚屋の短艇を見た時に土地の人は如何に驚いたであらう。この仕事は結局失敗に終つた。而して昔の九州の古問屋としての華やかなロウマンスの百が一の効果も得なかつた事に就て私は何より父に気の毒な感じを持つ。それやこれやで私たちの寂しい一家はまた都会の生活が恋しくなつて、秋が来るとすぐ東京に引上げて了つたのである。それで私だけは居残る事になり、二町谷の見桃寺（桃の御所）に移つた。而して翌年の二月、小笠原島に更に私が移住する迄の間、殆ど四ヶ月あまりの日月を、その寺の寂しい書院で静かな虔ましい生活をしてゐたのである。",
+   "sachu": "",
+   "poems": [],
+   "jo": true
+  },
+  {
+   "id": "kirara-shu-000565",
+   "pid": "aozora",
+   "pages": [],
+   "no": null,
+   "maki": "雲母集余言",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "此三崎生活の内容に就ては作品が凡てを証明すると思ふ故、これ以外何にも言はぬ。只初めは小児のやうに歓喜に燃えてゐた心が次第に四方鬱悶の苦しみとなり、遂に豁然として一脈の法悦味を感じ得たと信ずるそれ迄の道程は、本集に於て初めより終まで殆正しい系統を追つて、順序よく採録されてある。それを見て頂けば何よりである。",
+   "sachu": "",
+   "poems": [],
+   "jo": true
+  },
+  {
+   "id": "kirara-shu-000566",
+   "pid": "aozora",
+   "pages": [],
+   "no": null,
+   "maki": "雲母集余言",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "一旦東京を遠離してから、私の生活は一変した。地上に湧き上る新鮮な野菜や溌溂と鱗を飜す海の魚族は私の真実の伴侶であつた。従て、私は短艇を漕ぎ、魚介を漁り、山野を駈け廻る以外、当時に於ては、何ひとつ読みもしなければ、又殆ど創作する暇も無かつたと云つていい。ただ異人館時代に於て真珠抄の短唱数十首と、見桃寺に移つてから山海経、地面と野菜、閻魔の反射、法悦三品中の、それぞれその一部だけを得たのみである。その他は小笠原島や東京に帰つてから、幸に感興の再現を得て、筆を執つたものである。それでそれらの歌風に就ても非常に複雑してゐる。これだけは承知していただきたい。尚、此の三崎新居以前事情があつて、十日ばかり同処へ逗留してゐた事がある。「流離抄」の一篇はその時の歌である。",
+   "sachu": "",
+   "poems": [],
+   "jo": true
+  },
+  {
+   "id": "kirara-shu-000567",
+   "pid": "aozora",
+   "pages": [],
+   "no": null,
+   "maki": "雲母集余言",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "尚、三崎に関しては是等の歌以外私はまだ数十の詩篇を有つ。右は後日を期し、更に此の姉妹集として公にする計画である。",
+   "sachu": "",
+   "poems": [],
+   "jo": true
+  },
+  {
+   "id": "kirara-shu-000568",
+   "pid": "aozora",
+   "pages": [],
+   "no": null,
+   "maki": "雲母集余言",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "又曰ふ。此の中の四枚の挿画は一年前に画いて置いたものである。今から見れば極めて拙く、加ふるに木版師の手にわたる際に、一寸宛寸法を縮め過ぎた為め、あまりに小さな画になつたのは残念である。",
+   "sachu": "",
+   "poems": [],
+   "jo": true
+  },
+  {
+   "id": "kirara-shu-000569",
+   "pid": "aozora",
+   "pages": [],
+   "no": null,
+   "maki": "雲母集余言",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "兎に角此の雲母集一巻は純然たる三崎歌集である。而してこれらの歌が全く自分のものであり、私の信念が又、真実に自分の心の底から燦めき出したものに相違ないといふ事は、自分ながらただただ難有く感謝してゐる。自分を救ふものは矢張自分自身である。",
+   "sachu": "",
+   "poems": [],
+   "jo": true
+  },
+  {
+   "id": "kirara-shu-000570",
+   "pid": "aozora",
+   "pages": [],
+   "no": null,
+   "maki": "雲母集余言",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "滴るものは日のしづく、静かにたまる目の涙",
+   "sachu": "",
+   "poems": [],
+   "jo": true
+  },
+  {
+   "id": "kirara-shu-000571",
+   "pid": "aozora",
+   "pages": [],
+   "no": null,
+   "maki": "雲母集余言",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "大正四年八月著者識",
+   "sachu": "",
+   "poems": [],
+   "jo": true,
+   "lb": [
+    6
+   ]
+  },
+  {
+   "id": "kirara-shu-000572",
+   "pid": "aozora",
+   "pages": [],
+   "no": null,
+   "maki": "雲母集余言",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "",
+   "author": "",
+   "text": "雲母集　畢",
+   "sachu": "",
+   "poems": [],
+   "jo": true
+  }
+ ],
+ "poems": [],
+ "catalog": {
+  "work_id": "kirara-shu",
+  "work": "雲母集",
+  "yomi": "きららしゅう",
+  "category": "近代歌集",
+  "era": "大正時代",
+  "author": "北原白秋",
+  "kind": "kashu",
+  "blocks": 572,
+  "chars": 16524,
+  "poems": 556,
+  "yaku": 0,
+  "editions": 1,
+  "updated": "2026-11-21",
+  "updated_at": "2026-11-21T19:18:35+09:00"
+ }
+}
